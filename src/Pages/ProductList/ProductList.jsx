@@ -14,7 +14,7 @@ const columns = [
   },
 
   {
-    field: "_year",
+    field: "year",
     headerName: "Year",
     width: 200,
     sortable: true,
@@ -66,7 +66,7 @@ const columns = [
 function ProductList() {
   return (
     <div className="productList">
-      <div>ProductList</div>
+      <h3>ProductList</h3>
 
       <div className="productListTable">
         <div className="ag-theme-alpine" style={{ width: "100%" }}>

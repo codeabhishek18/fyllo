@@ -12,18 +12,26 @@
   color: #555;
 }
 
-.sidebarMenu {
+.sidebarMenu 
+{
+  display: flex;
+  flex-direction: column;
+  gap:10px;
   margin-bottom: 10px;
 }
 
-.sidebarTitle {
-  font-size: 18px;
+.sidebarTitle 
+{
+  margin-top: 20px;
+  font-size: 16px;
   color: #669b52;
 }
 
-.sidebarList {
-  list-style: none;
-  padding: 5px;
+.sidebarList 
+{
+  display: flex;
+  flex-direction: column;
+  gap:10px;
 }
 
 .sidebarListItem {
@@ -32,6 +40,7 @@
   align-items: center;
   cursor: pointer;
   border-radius: 8px;
+  text-decoration: none;
 }
 
 .sidebarListItem.active,
@@ -43,3 +52,4 @@
   margin-right: 5px;
   font-size: 20px !important;
 }
+
