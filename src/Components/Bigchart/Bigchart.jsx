@@ -1,4 +1,4 @@
-import { useState, useMemo } from "react";
+import { useState, useMemo, useEffect } from "react";
 import "./Bigchart.css";
 
 import {
@@ -17,7 +17,6 @@ function Bigchart({
   data,
 }) {
   const months = [
-    "All",
     "January",
     "February",
     "March",
@@ -73,37 +72,76 @@ function Bigchart({
   ];
 
   const [stateValue, setStateValue] = useState("All");
-  const [monthValue, setMonthValue] = useState("All");
+  const [productValue, setProductValue] = useState("All");
+  // const [monthValue, setMonthValue] = useState("All");
+  const [productList, setProductList] = useState(null);
+
+  useEffect(()=>
+  {
+    const productList = data.reduce((carry, item)=>
+    {
+      const { product } = item;
+      if(!(carry.includes(product)))
+        carry.push(product);
+      return carry
+    },[])
+    productList.unshift("All")
+    setProductList(productList);
+  },[]);
 
   const filteredData = useMemo(() => 
   {
-    return data
+    const monthlyData = data
       .filter((item) => 
       {
         const matchState = stateValue === "All" || item.state === stateValue;
-        const matchMonth = monthValue === "All" || item.month === monthValue;
-        return matchState && matchMonth;
-      })
-      .map((item) => ({
+        const selectedProduct = productValue === 'All' || item.product === productValue;
+        // const matchMonth = monthValue === "All" || item.month === monthValue;
+        return selectedProduct && matchState;
+      }).map((item) => ({
         ...item,
         requirement_in_mt_: parseFloat(item.requirement_in_mt_ || 0),
         availability_in_mt_: parseFloat(item.availability_in_mt_ || 0),
-      }));
-  }, [data, stateValue, monthValue]);
+      })).reduce((carry, item)=>
+      {
+        const { month, requirement_in_mt_, availability_in_mt_ } = item;
+        if(!carry[month])
+          carry[month] = { month, requirement_in_mt_ : 0, availability_in_mt_:0 }
+        carry[month].requirement_in_mt_ += requirement_in_mt_
+        carry[month].availability_in_mt_ += availability_in_mt_
+        return carry
+      },[]);
+
+      const finalData = months.map((m) => monthlyData[m] || { month: m, requirement_in_mt_: 0, availability_in_mt_:0 });
+      return finalData
+  }, [data, stateValue, productValue]);
+
+  console.log(filteredData)
 
   return (
     <div className="bigchart">
       <h3 className="bigchartTitle">{title}</h3>
 
       <div className="bigchartSelect">
-        <h5>Month</h5>
+        {/* <h5>Month</h5>
         <select value={monthValue} onChange={(e) => setMonthValue(e.target.value)}>
           {months.map((m) => (
             <option key={m} value={m}>
               {m}
             </option>
           ))}
-        </select>
+        </select> */}
+
+        <h5>Product</h5>
+        {productList && 
+        <select value={productValue} onChange={(e) => setProductValue(e.target.value)}>
+          {productList.map((m) => (
+            <option key={m} value={m}>
+              {m}
+            </option>
+          ))}
+        </select>}
+
 
         <h5>State</h5>
         <select value={stateValue} onChange={(e) => setStateValue(e.target.value)}>
@@ -126,7 +164,7 @@ function Bigchart({
             margin={{ top: 5, right: 30, left: 20, bottom: 5 }}
           >
             <CartesianGrid strokeDasharray="3 3" />
-            <XAxis dataKey="product" />
+            <XAxis dataKey="months" />
             <YAxis />
             <Tooltip />
             <Legend />

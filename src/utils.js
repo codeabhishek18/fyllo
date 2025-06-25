@@ -50,8 +50,10 @@ export function capitalizeWords(string) {
   })
 }
 
-export function getPieData(data, valueData, order = "desc") {
-  const chartData = data.reduce((carry, item) => {
+export function getPieData(data, valueData, order = "desc") 
+{
+  const chartData = data.reduce((carry, item) => 
+  {
     const { product, [valueData]: req } = item
 
     if (!(product in carry)) {
