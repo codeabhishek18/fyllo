@@ -21,6 +21,9 @@ function App() {
             <Route exact path="/product">
               <ProductList />
             </Route>
+            <Route exact path="/product">
+              <ProductList />
+            </Route>
           </Switch>
         </div>
       </Router>

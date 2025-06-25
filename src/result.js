@@ -1,6 +1,6 @@
 export const data = [
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "DAP",
     state: "Andaman & Nicobar",
@@ -9,7 +9,7 @@ export const data = [
     id: 1,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MAP",
     state: "Andaman & Nicobar",
@@ -18,7 +18,7 @@ export const data = [
     id: 2,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MOP",
     state: "Andaman & Nicobar",
@@ -27,7 +27,7 @@ export const data = [
     id: 3,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "NPK",
     state: "Andaman & Nicobar",
@@ -36,7 +36,7 @@ export const data = [
     id: 4,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "TSP",
     state: "Andaman & Nicobar",
@@ -45,7 +45,7 @@ export const data = [
     id: 5,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "UREA",
     state: "Andaman & Nicobar",
@@ -54,7 +54,7 @@ export const data = [
     id: 6,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "SSP",
     state: "Andaman & Nicobar",
@@ -63,7 +63,7 @@ export const data = [
     id: 7,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "DAP",
     state: "Andhra Pradesh",
@@ -72,7 +72,7 @@ export const data = [
     id: 8,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MAP",
     state: "Andhra Pradesh",
@@ -81,7 +81,7 @@ export const data = [
     id: 9,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MOP",
     state: "Andhra Pradesh",
@@ -90,7 +90,7 @@ export const data = [
     id: 10,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "NPK",
     state: "Andhra Pradesh",
@@ -99,7 +99,7 @@ export const data = [
     id: 11,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "TSP",
     state: "Andhra Pradesh",
@@ -108,7 +108,7 @@ export const data = [
     id: 12,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "UREA",
     state: "Andhra Pradesh",
@@ -117,7 +117,7 @@ export const data = [
     id: 13,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "SSP",
     state: "Andhra Pradesh",
@@ -126,7 +126,7 @@ export const data = [
     id: 14,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "DAP",
     state: "Arunachal Pradesh",
@@ -135,7 +135,7 @@ export const data = [
     id: 15,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MAP",
     state: "Arunachal Pradesh",
@@ -144,7 +144,7 @@ export const data = [
     id: 16,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MOP",
     state: "Arunachal Pradesh",
@@ -153,7 +153,7 @@ export const data = [
     id: 17,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "NPK",
     state: "Arunachal Pradesh",
@@ -162,7 +162,7 @@ export const data = [
     id: 18,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "TSP",
     state: "Arunachal Pradesh",
@@ -171,7 +171,7 @@ export const data = [
     id: 19,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "UREA",
     state: "Arunachal Pradesh",
@@ -180,7 +180,7 @@ export const data = [
     id: 20,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "SSP",
     state: "Arunachal Pradesh",
@@ -189,7 +189,7 @@ export const data = [
     id: 21,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "DAP",
     state: "Assam",
@@ -198,7 +198,7 @@ export const data = [
     id: 22,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MAP",
     state: "Assam",
@@ -207,7 +207,7 @@ export const data = [
     id: 23,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MOP",
     state: "Assam",
@@ -216,7 +216,7 @@ export const data = [
     id: 24,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "NPK",
     state: "Assam",
@@ -225,7 +225,7 @@ export const data = [
     id: 25,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "TSP",
     state: "Assam",
@@ -234,7 +234,7 @@ export const data = [
     id: 26,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "UREA",
     state: "Assam",
@@ -243,7 +243,7 @@ export const data = [
     id: 27,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "SSP",
     state: "Assam",
@@ -252,7 +252,7 @@ export const data = [
     id: 28,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "DAP",
     state: "Bihar",
@@ -261,7 +261,7 @@ export const data = [
     id: 29,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MAP",
     state: "Bihar",
@@ -270,7 +270,7 @@ export const data = [
     id: 30,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MOP",
     state: "Bihar",
@@ -279,7 +279,7 @@ export const data = [
     id: 31,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "NPK",
     state: "Bihar",
@@ -288,7 +288,7 @@ export const data = [
     id: 32,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "TSP",
     state: "Bihar",
@@ -297,7 +297,7 @@ export const data = [
     id: 33,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "UREA",
     state: "Bihar",
@@ -306,7 +306,7 @@ export const data = [
     id: 34,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "SSP",
     state: "Bihar",
@@ -315,7 +315,7 @@ export const data = [
     id: 35,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "DAP",
     state: "Chandigarh",
@@ -324,7 +324,7 @@ export const data = [
     id: 36,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MAP",
     state: "Chandigarh",
@@ -333,7 +333,7 @@ export const data = [
     id: 37,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MOP",
     state: "Chandigarh",
@@ -342,7 +342,7 @@ export const data = [
     id: 38,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "NPK",
     state: "Chandigarh",
@@ -351,7 +351,7 @@ export const data = [
     id: 39,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "TSP",
     state: "Chandigarh",
@@ -360,7 +360,7 @@ export const data = [
     id: 40,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "UREA",
     state: "Chandigarh",
@@ -369,7 +369,7 @@ export const data = [
     id: 41,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "SSP",
     state: "Chandigarh",
@@ -378,7 +378,7 @@ export const data = [
     id: 42,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "DAP",
     state: "Chattishgarh",
@@ -387,7 +387,7 @@ export const data = [
     id: 43,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MAP",
     state: "Chattishgarh",
@@ -396,7 +396,7 @@ export const data = [
     id: 44,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MOP",
     state: "Chattishgarh",
@@ -405,7 +405,7 @@ export const data = [
     id: 45,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "NPK",
     state: "Chattishgarh",
@@ -414,7 +414,7 @@ export const data = [
     id: 46,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "TSP",
     state: "Chattishgarh",
@@ -423,7 +423,7 @@ export const data = [
     id: 47,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "UREA",
     state: "Chattishgarh",
@@ -432,7 +432,7 @@ export const data = [
     id: 48,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "SSP",
     state: "Chattishgarh",
@@ -441,7 +441,7 @@ export const data = [
     id: 49,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "DAP",
     state: "Dadra & Nagar Haveli",
@@ -450,7 +450,7 @@ export const data = [
     id: 50,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MAP",
     state: "Dadra & Nagar Haveli",
@@ -459,7 +459,7 @@ export const data = [
     id: 51,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MOP",
     state: "Dadra & Nagar Haveli",
@@ -468,7 +468,7 @@ export const data = [
     id: 52,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "NPK",
     state: "Dadra & Nagar Haveli",
@@ -477,7 +477,7 @@ export const data = [
     id: 53,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "TSP",
     state: "Dadra & Nagar Haveli",
@@ -486,7 +486,7 @@ export const data = [
     id: 54,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "UREA",
     state: "Dadra & Nagar Haveli",
@@ -495,7 +495,7 @@ export const data = [
     id: 55,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "SSP",
     state: "Dadra & Nagar Haveli",
@@ -504,7 +504,7 @@ export const data = [
     id: 56,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "DAP",
     state: "Delhi",
@@ -513,7 +513,7 @@ export const data = [
     id: 57,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MAP",
     state: "Delhi",
@@ -522,7 +522,7 @@ export const data = [
     id: 58,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MOP",
     state: "Delhi",
@@ -531,7 +531,7 @@ export const data = [
     id: 59,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "NPK",
     state: "Delhi",
@@ -540,7 +540,7 @@ export const data = [
     id: 60,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "TSP",
     state: "Delhi",
@@ -549,7 +549,7 @@ export const data = [
     id: 61,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "UREA",
     state: "Delhi",
@@ -558,7 +558,7 @@ export const data = [
     id: 62,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "SSP",
     state: "Delhi",
@@ -567,7 +567,7 @@ export const data = [
     id: 63,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "DAP",
     state: "Goa",
@@ -576,7 +576,7 @@ export const data = [
     id: 64,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MAP",
     state: "Goa",
@@ -585,7 +585,7 @@ export const data = [
     id: 65,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MOP",
     state: "Goa",
@@ -594,7 +594,7 @@ export const data = [
     id: 66,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "NPK",
     state: "Goa",
@@ -603,7 +603,7 @@ export const data = [
     id: 67,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "TSP",
     state: "Goa",
@@ -612,7 +612,7 @@ export const data = [
     id: 68,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "UREA",
     state: "Goa",
@@ -621,7 +621,7 @@ export const data = [
     id: 69,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "SSP",
     state: "Goa",
@@ -630,7 +630,7 @@ export const data = [
     id: 70,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "DAP",
     state: "Gujarat",
@@ -639,7 +639,7 @@ export const data = [
     id: 71,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MAP",
     state: "Gujarat",
@@ -648,7 +648,7 @@ export const data = [
     id: 72,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MOP",
     state: "Gujarat",
@@ -657,7 +657,7 @@ export const data = [
     id: 73,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "NPK",
     state: "Gujarat",
@@ -666,7 +666,7 @@ export const data = [
     id: 74,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "TSP",
     state: "Gujarat",
@@ -675,7 +675,7 @@ export const data = [
     id: 75,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "UREA",
     state: "Gujarat",
@@ -684,7 +684,7 @@ export const data = [
     id: 76,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "SSP",
     state: "Gujarat",
@@ -693,7 +693,7 @@ export const data = [
     id: 77,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "DAP",
     state: "Harayana",
@@ -702,7 +702,7 @@ export const data = [
     id: 78,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MAP",
     state: "Harayana",
@@ -711,7 +711,7 @@ export const data = [
     id: 79,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MOP",
     state: "Harayana",
@@ -720,7 +720,7 @@ export const data = [
     id: 80,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "NPK",
     state: "Harayana",
@@ -729,7 +729,7 @@ export const data = [
     id: 81,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "TSP",
     state: "Harayana",
@@ -738,7 +738,7 @@ export const data = [
     id: 82,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "UREA",
     state: "Harayana",
@@ -747,7 +747,7 @@ export const data = [
     id: 83,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "SSP",
     state: "Harayana",
@@ -756,7 +756,7 @@ export const data = [
     id: 84,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "DAP",
     state: "Himachal Pradesh",
@@ -765,7 +765,7 @@ export const data = [
     id: 85,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MAP",
     state: "Himachal Pradesh",
@@ -774,7 +774,7 @@ export const data = [
     id: 86,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MOP",
     state: "Himachal Pradesh",
@@ -783,7 +783,7 @@ export const data = [
     id: 87,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "NPK",
     state: "Himachal Pradesh",
@@ -792,7 +792,7 @@ export const data = [
     id: 88,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "TSP",
     state: "Himachal Pradesh",
@@ -801,7 +801,7 @@ export const data = [
     id: 89,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "UREA",
     state: "Himachal Pradesh",
@@ -810,7 +810,7 @@ export const data = [
     id: 90,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "SSP",
     state: "Himachal Pradesh",
@@ -819,7 +819,7 @@ export const data = [
     id: 91,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "DAP",
     state: "Jammu & Kashmir",
@@ -828,7 +828,7 @@ export const data = [
     id: 92,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MAP",
     state: "Jammu & Kashmir",
@@ -837,7 +837,7 @@ export const data = [
     id: 93,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MOP",
     state: "Jammu & Kashmir",
@@ -846,7 +846,7 @@ export const data = [
     id: 94,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "NPK",
     state: "Jammu & Kashmir",
@@ -855,7 +855,7 @@ export const data = [
     id: 95,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "TSP",
     state: "Jammu & Kashmir",
@@ -864,7 +864,7 @@ export const data = [
     id: 96,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "UREA",
     state: "Jammu & Kashmir",
@@ -873,7 +873,7 @@ export const data = [
     id: 97,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "SSP",
     state: "Jammu & Kashmir",
@@ -882,7 +882,7 @@ export const data = [
     id: 98,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "DAP",
     state: "Jharkhand",
@@ -891,7 +891,7 @@ export const data = [
     id: 99,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MAP",
     state: "Jharkhand",
@@ -900,7 +900,7 @@ export const data = [
     id: 100,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MOP",
     state: "Jharkhand",
@@ -909,7 +909,7 @@ export const data = [
     id: 101,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "NPK",
     state: "Jharkhand",
@@ -918,7 +918,7 @@ export const data = [
     id: 102,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "TSP",
     state: "Jharkhand",
@@ -927,7 +927,7 @@ export const data = [
     id: 103,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "UREA",
     state: "Jharkhand",
@@ -936,7 +936,7 @@ export const data = [
     id: 104,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "SSP",
     state: "Jharkhand",
@@ -945,7 +945,7 @@ export const data = [
     id: 105,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "DAP",
     state: "Karnataka",
@@ -954,7 +954,7 @@ export const data = [
     id: 106,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MAP",
     state: "Karnataka",
@@ -963,7 +963,7 @@ export const data = [
     id: 107,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MOP",
     state: "Karnataka",
@@ -972,7 +972,7 @@ export const data = [
     id: 108,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "NPK",
     state: "Karnataka",
@@ -981,7 +981,7 @@ export const data = [
     id: 109,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "TSP",
     state: "Karnataka",
@@ -990,7 +990,7 @@ export const data = [
     id: 110,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "UREA",
     state: "Karnataka",
@@ -999,7 +999,7 @@ export const data = [
     id: 111,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "SSP",
     state: "Karnataka",
@@ -1008,7 +1008,7 @@ export const data = [
     id: 112,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "DAP",
     state: "Kerala",
@@ -1017,7 +1017,7 @@ export const data = [
     id: 113,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MAP",
     state: "Kerala",
@@ -1026,7 +1026,7 @@ export const data = [
     id: 114,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MOP",
     state: "Kerala",
@@ -1035,7 +1035,7 @@ export const data = [
     id: 115,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "NPK",
     state: "Kerala",
@@ -1044,7 +1044,7 @@ export const data = [
     id: 116,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "TSP",
     state: "Kerala",
@@ -1053,7 +1053,7 @@ export const data = [
     id: 117,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "UREA",
     state: "Kerala",
@@ -1062,7 +1062,7 @@ export const data = [
     id: 118,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "SSP",
     state: "Kerala",
@@ -1071,7 +1071,7 @@ export const data = [
     id: 119,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "DAP",
     state: "Madhya Pradesh",
@@ -1080,7 +1080,7 @@ export const data = [
     id: 120,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MAP",
     state: "Madhya Pradesh",
@@ -1089,7 +1089,7 @@ export const data = [
     id: 121,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MOP",
     state: "Madhya Pradesh",
@@ -1098,7 +1098,7 @@ export const data = [
     id: 122,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "NPK",
     state: "Madhya Pradesh",
@@ -1107,7 +1107,7 @@ export const data = [
     id: 123,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "TSP",
     state: "Madhya Pradesh",
@@ -1116,7 +1116,7 @@ export const data = [
     id: 124,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "UREA",
     state: "Madhya Pradesh",
@@ -1125,7 +1125,7 @@ export const data = [
     id: 125,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "SSP",
     state: "Madhya Pradesh",
@@ -1134,7 +1134,7 @@ export const data = [
     id: 126,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "DAP",
     state: "Maharastra",
@@ -1143,7 +1143,7 @@ export const data = [
     id: 127,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MAP",
     state: "Maharastra",
@@ -1152,7 +1152,7 @@ export const data = [
     id: 128,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MOP",
     state: "Maharastra",
@@ -1161,7 +1161,7 @@ export const data = [
     id: 129,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "NPK",
     state: "Maharastra",
@@ -1170,7 +1170,7 @@ export const data = [
     id: 130,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "TSP",
     state: "Maharastra",
@@ -1179,7 +1179,7 @@ export const data = [
     id: 131,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "UREA",
     state: "Maharastra",
@@ -1188,7 +1188,7 @@ export const data = [
     id: 132,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "SSP",
     state: "Maharastra",
@@ -1197,7 +1197,7 @@ export const data = [
     id: 133,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "DAP",
     state: "Manipur",
@@ -1206,7 +1206,7 @@ export const data = [
     id: 134,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MAP",
     state: "Manipur",
@@ -1215,7 +1215,7 @@ export const data = [
     id: 135,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MOP",
     state: "Manipur",
@@ -1224,7 +1224,7 @@ export const data = [
     id: 136,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "NPK",
     state: "Manipur",
@@ -1233,7 +1233,7 @@ export const data = [
     id: 137,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "TSP",
     state: "Manipur",
@@ -1242,7 +1242,7 @@ export const data = [
     id: 138,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "UREA",
     state: "Manipur",
@@ -1251,7 +1251,7 @@ export const data = [
     id: 139,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "SSP",
     state: "Manipur",
@@ -1260,7 +1260,7 @@ export const data = [
     id: 140,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "DAP",
     state: "Megalaya",
@@ -1269,7 +1269,7 @@ export const data = [
     id: 141,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MAP",
     state: "Megalaya",
@@ -1278,7 +1278,7 @@ export const data = [
     id: 142,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MOP",
     state: "Megalaya",
@@ -1287,7 +1287,7 @@ export const data = [
     id: 143,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "NPK",
     state: "Megalaya",
@@ -1296,7 +1296,7 @@ export const data = [
     id: 144,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "TSP",
     state: "Megalaya",
@@ -1305,7 +1305,7 @@ export const data = [
     id: 145,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "UREA",
     state: "Megalaya",
@@ -1314,7 +1314,7 @@ export const data = [
     id: 146,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "SSP",
     state: "Megalaya",
@@ -1323,7 +1323,7 @@ export const data = [
     id: 147,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "DAP",
     state: "Mizoram",
@@ -1332,7 +1332,7 @@ export const data = [
     id: 148,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MAP",
     state: "Mizoram",
@@ -1341,7 +1341,7 @@ export const data = [
     id: 149,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MOP",
     state: "Mizoram",
@@ -1350,7 +1350,7 @@ export const data = [
     id: 150,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "NPK",
     state: "Mizoram",
@@ -1359,7 +1359,7 @@ export const data = [
     id: 151,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "TSP",
     state: "Mizoram",
@@ -1368,7 +1368,7 @@ export const data = [
     id: 152,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "UREA",
     state: "Mizoram",
@@ -1377,7 +1377,7 @@ export const data = [
     id: 153,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "SSP",
     state: "Mizoram",
@@ -1386,7 +1386,7 @@ export const data = [
     id: 154,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "DAP",
     state: "Nagaland",
@@ -1395,7 +1395,7 @@ export const data = [
     id: 155,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MAP",
     state: "Nagaland",
@@ -1404,7 +1404,7 @@ export const data = [
     id: 156,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MOP",
     state: "Nagaland",
@@ -1413,7 +1413,7 @@ export const data = [
     id: 157,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "NPK",
     state: "Nagaland",
@@ -1422,7 +1422,7 @@ export const data = [
     id: 158,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "TSP",
     state: "Nagaland",
@@ -1431,7 +1431,7 @@ export const data = [
     id: 159,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "UREA",
     state: "Nagaland",
@@ -1440,7 +1440,7 @@ export const data = [
     id: 160,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "SSP",
     state: "Nagaland",
@@ -1449,7 +1449,7 @@ export const data = [
     id: 161,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "DAP",
     state: "Orissa",
@@ -1458,7 +1458,7 @@ export const data = [
     id: 162,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MAP",
     state: "Orissa",
@@ -1467,7 +1467,7 @@ export const data = [
     id: 163,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MOP",
     state: "Orissa",
@@ -1476,7 +1476,7 @@ export const data = [
     id: 164,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "NPK",
     state: "Orissa",
@@ -1485,7 +1485,7 @@ export const data = [
     id: 165,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "TSP",
     state: "Orissa",
@@ -1494,7 +1494,7 @@ export const data = [
     id: 166,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "UREA",
     state: "Orissa",
@@ -1503,7 +1503,7 @@ export const data = [
     id: 167,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "SSP",
     state: "Orissa",
@@ -1512,7 +1512,7 @@ export const data = [
     id: 168,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "DAP",
     state: "Pondicherry",
@@ -1521,7 +1521,7 @@ export const data = [
     id: 169,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MAP",
     state: "Pondicherry",
@@ -1530,7 +1530,7 @@ export const data = [
     id: 170,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MOP",
     state: "Pondicherry",
@@ -1539,7 +1539,7 @@ export const data = [
     id: 171,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "NPK",
     state: "Pondicherry",
@@ -1548,7 +1548,7 @@ export const data = [
     id: 172,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "TSP",
     state: "Pondicherry",
@@ -1557,7 +1557,7 @@ export const data = [
     id: 173,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "UREA",
     state: "Pondicherry",
@@ -1566,7 +1566,7 @@ export const data = [
     id: 174,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "SSP",
     state: "Pondicherry",
@@ -1575,7 +1575,7 @@ export const data = [
     id: 175,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "DAP",
     state: "Punjab",
@@ -1584,7 +1584,7 @@ export const data = [
     id: 176,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MAP",
     state: "Punjab",
@@ -1593,7 +1593,7 @@ export const data = [
     id: 177,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MOP",
     state: "Punjab",
@@ -1602,7 +1602,7 @@ export const data = [
     id: 178,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "NPK",
     state: "Punjab",
@@ -1611,7 +1611,7 @@ export const data = [
     id: 179,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "TSP",
     state: "Punjab",
@@ -1620,7 +1620,7 @@ export const data = [
     id: 180,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "UREA",
     state: "Punjab",
@@ -1629,7 +1629,7 @@ export const data = [
     id: 181,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "SSP",
     state: "Punjab",
@@ -1638,7 +1638,7 @@ export const data = [
     id: 182,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "DAP",
     state: "Rajasthan",
@@ -1647,7 +1647,7 @@ export const data = [
     id: 183,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MAP",
     state: "Rajasthan",
@@ -1656,7 +1656,7 @@ export const data = [
     id: 184,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MOP",
     state: "Rajasthan",
@@ -1665,7 +1665,7 @@ export const data = [
     id: 185,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "NPK",
     state: "Rajasthan",
@@ -1674,7 +1674,7 @@ export const data = [
     id: 186,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "TSP",
     state: "Rajasthan",
@@ -1683,7 +1683,7 @@ export const data = [
     id: 187,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "UREA",
     state: "Rajasthan",
@@ -1692,7 +1692,7 @@ export const data = [
     id: 188,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "SSP",
     state: "Rajasthan",
@@ -1701,7 +1701,7 @@ export const data = [
     id: 189,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "DAP",
     state: "Tamil Nadu",
@@ -1710,7 +1710,7 @@ export const data = [
     id: 190,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MAP",
     state: "Tamil Nadu",
@@ -1719,7 +1719,7 @@ export const data = [
     id: 191,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MOP",
     state: "Tamil Nadu",
@@ -1728,7 +1728,7 @@ export const data = [
     id: 192,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "NPK",
     state: "Tamil Nadu",
@@ -1737,7 +1737,7 @@ export const data = [
     id: 193,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "TSP",
     state: "Tamil Nadu",
@@ -1746,7 +1746,7 @@ export const data = [
     id: 194,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "UREA",
     state: "Tamil Nadu",
@@ -1755,7 +1755,7 @@ export const data = [
     id: 195,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "SSP",
     state: "Tamil Nadu",
@@ -1764,7 +1764,7 @@ export const data = [
     id: 196,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "DAP",
     state: "Tripura",
@@ -1773,7 +1773,7 @@ export const data = [
     id: 197,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MAP",
     state: "Tripura",
@@ -1782,7 +1782,7 @@ export const data = [
     id: 198,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MOP",
     state: "Tripura",
@@ -1791,7 +1791,7 @@ export const data = [
     id: 199,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "NPK",
     state: "Tripura",
@@ -1800,7 +1800,7 @@ export const data = [
     id: 200,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "TSP",
     state: "Tripura",
@@ -1809,7 +1809,7 @@ export const data = [
     id: 201,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "UREA",
     state: "Tripura",
@@ -1818,7 +1818,7 @@ export const data = [
     id: 202,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "SSP",
     state: "Tripura",
@@ -1827,7 +1827,7 @@ export const data = [
     id: 203,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "DAP",
     state: "Telangana",
@@ -1836,7 +1836,7 @@ export const data = [
     id: 204,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MAP",
     state: "Telangana",
@@ -1845,7 +1845,7 @@ export const data = [
     id: 205,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MOP",
     state: "Telangana",
@@ -1854,7 +1854,7 @@ export const data = [
     id: 206,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "NPK",
     state: "Telangana",
@@ -1863,7 +1863,7 @@ export const data = [
     id: 207,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "TSP",
     state: "Telangana",
@@ -1872,7 +1872,7 @@ export const data = [
     id: 208,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "UREA",
     state: "Telangana",
@@ -1881,7 +1881,7 @@ export const data = [
     id: 209,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "SSP",
     state: "Telangana",
@@ -1890,7 +1890,7 @@ export const data = [
     id: 210,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "DAP",
     state: "Uttar Pradesh",
@@ -1899,7 +1899,7 @@ export const data = [
     id: 211,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MAP",
     state: "Uttar Pradesh",
@@ -1908,7 +1908,7 @@ export const data = [
     id: 212,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MOP",
     state: "Uttar Pradesh",
@@ -1917,7 +1917,7 @@ export const data = [
     id: 213,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "NPK",
     state: "Uttar Pradesh",
@@ -1926,7 +1926,7 @@ export const data = [
     id: 214,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "TSP",
     state: "Uttar Pradesh",
@@ -1935,7 +1935,7 @@ export const data = [
     id: 215,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "UREA",
     state: "Uttar Pradesh",
@@ -1944,7 +1944,7 @@ export const data = [
     id: 216,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "SSP",
     state: "Uttar Pradesh",
@@ -1953,7 +1953,7 @@ export const data = [
     id: 217,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "DAP",
     state: "Uttaranchal",
@@ -1962,7 +1962,7 @@ export const data = [
     id: 218,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MAP",
     state: "Uttaranchal",
@@ -1971,7 +1971,7 @@ export const data = [
     id: 219,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MOP",
     state: "Uttaranchal",
@@ -1980,7 +1980,7 @@ export const data = [
     id: 220,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "NPK",
     state: "Uttaranchal",
@@ -1989,7 +1989,7 @@ export const data = [
     id: 221,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "TSP",
     state: "Uttaranchal",
@@ -1998,7 +1998,7 @@ export const data = [
     id: 222,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "UREA",
     state: "Uttaranchal",
@@ -2007,7 +2007,7 @@ export const data = [
     id: 223,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "SSP",
     state: "Uttaranchal",
@@ -2016,7 +2016,7 @@ export const data = [
     id: 224,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "DAP",
     state: "West Bengal",
@@ -2025,7 +2025,7 @@ export const data = [
     id: 225,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MAP",
     state: "West Bengal",
@@ -2034,7 +2034,7 @@ export const data = [
     id: 226,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "MOP",
     state: "West Bengal",
@@ -2043,7 +2043,7 @@ export const data = [
     id: 227,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "NPK",
     state: "West Bengal",
@@ -2052,7 +2052,7 @@ export const data = [
     id: 228,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "TSP",
     state: "West Bengal",
@@ -2061,7 +2061,7 @@ export const data = [
     id: 229,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "UREA",
     state: "West Bengal",
@@ -2070,7 +2070,7 @@ export const data = [
     id: 230,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "April",
     product: "SSP",
     state: "West Bengal",
@@ -2079,7 +2079,7 @@ export const data = [
     id: 231,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "DAP",
     state: "Andaman & Nicobar",
@@ -2088,7 +2088,7 @@ export const data = [
     id: 232,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MAP",
     state: "Andaman & Nicobar",
@@ -2097,7 +2097,7 @@ export const data = [
     id: 233,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MOP",
     state: "Andaman & Nicobar",
@@ -2106,7 +2106,7 @@ export const data = [
     id: 234,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "NPK",
     state: "Andaman & Nicobar",
@@ -2115,7 +2115,7 @@ export const data = [
     id: 235,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "TSP",
     state: "Andaman & Nicobar",
@@ -2124,7 +2124,7 @@ export const data = [
     id: 236,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "UREA",
     state: "Andaman & Nicobar",
@@ -2133,7 +2133,7 @@ export const data = [
     id: 237,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "SSP",
     state: "Andaman & Nicobar",
@@ -2142,7 +2142,7 @@ export const data = [
     id: 238,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "DAP",
     state: "Andhra Pradesh",
@@ -2151,7 +2151,7 @@ export const data = [
     id: 239,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MAP",
     state: "Andhra Pradesh",
@@ -2160,7 +2160,7 @@ export const data = [
     id: 240,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MOP",
     state: "Andhra Pradesh",
@@ -2169,7 +2169,7 @@ export const data = [
     id: 241,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "NPK",
     state: "Andhra Pradesh",
@@ -2178,7 +2178,7 @@ export const data = [
     id: 242,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "TSP",
     state: "Andhra Pradesh",
@@ -2187,7 +2187,7 @@ export const data = [
     id: 243,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "UREA",
     state: "Andhra Pradesh",
@@ -2196,7 +2196,7 @@ export const data = [
     id: 244,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "SSP",
     state: "Andhra Pradesh",
@@ -2205,7 +2205,7 @@ export const data = [
     id: 245,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "DAP",
     state: "Arunachal Pradesh",
@@ -2214,7 +2214,7 @@ export const data = [
     id: 246,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MAP",
     state: "Arunachal Pradesh",
@@ -2223,7 +2223,7 @@ export const data = [
     id: 247,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MOP",
     state: "Arunachal Pradesh",
@@ -2232,7 +2232,7 @@ export const data = [
     id: 248,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "NPK",
     state: "Arunachal Pradesh",
@@ -2241,7 +2241,7 @@ export const data = [
     id: 249,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "TSP",
     state: "Arunachal Pradesh",
@@ -2250,7 +2250,7 @@ export const data = [
     id: 250,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "UREA",
     state: "Arunachal Pradesh",
@@ -2259,7 +2259,7 @@ export const data = [
     id: 251,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "SSP",
     state: "Arunachal Pradesh",
@@ -2268,7 +2268,7 @@ export const data = [
     id: 252,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "DAP",
     state: "Assam",
@@ -2277,7 +2277,7 @@ export const data = [
     id: 253,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MAP",
     state: "Assam",
@@ -2286,7 +2286,7 @@ export const data = [
     id: 254,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MOP",
     state: "Assam",
@@ -2295,7 +2295,7 @@ export const data = [
     id: 255,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "NPK",
     state: "Assam",
@@ -2304,7 +2304,7 @@ export const data = [
     id: 256,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "TSP",
     state: "Assam",
@@ -2313,7 +2313,7 @@ export const data = [
     id: 257,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "UREA",
     state: "Assam",
@@ -2322,7 +2322,7 @@ export const data = [
     id: 258,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "SSP",
     state: "Assam",
@@ -2331,7 +2331,7 @@ export const data = [
     id: 259,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "DAP",
     state: "Bihar",
@@ -2340,7 +2340,7 @@ export const data = [
     id: 260,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MAP",
     state: "Bihar",
@@ -2349,7 +2349,7 @@ export const data = [
     id: 261,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MOP",
     state: "Bihar",
@@ -2358,7 +2358,7 @@ export const data = [
     id: 262,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "NPK",
     state: "Bihar",
@@ -2367,7 +2367,7 @@ export const data = [
     id: 263,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "TSP",
     state: "Bihar",
@@ -2376,7 +2376,7 @@ export const data = [
     id: 264,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "UREA",
     state: "Bihar",
@@ -2385,7 +2385,7 @@ export const data = [
     id: 265,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "SSP",
     state: "Bihar",
@@ -2394,7 +2394,7 @@ export const data = [
     id: 266,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "DAP",
     state: "Chandigarh",
@@ -2403,7 +2403,7 @@ export const data = [
     id: 267,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MAP",
     state: "Chandigarh",
@@ -2412,7 +2412,7 @@ export const data = [
     id: 268,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MOP",
     state: "Chandigarh",
@@ -2421,7 +2421,7 @@ export const data = [
     id: 269,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "NPK",
     state: "Chandigarh",
@@ -2430,7 +2430,7 @@ export const data = [
     id: 270,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "TSP",
     state: "Chandigarh",
@@ -2439,7 +2439,7 @@ export const data = [
     id: 271,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "UREA",
     state: "Chandigarh",
@@ -2448,7 +2448,7 @@ export const data = [
     id: 272,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "SSP",
     state: "Chandigarh",
@@ -2457,7 +2457,7 @@ export const data = [
     id: 273,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "DAP",
     state: "Chattishgarh",
@@ -2466,7 +2466,7 @@ export const data = [
     id: 274,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MAP",
     state: "Chattishgarh",
@@ -2475,7 +2475,7 @@ export const data = [
     id: 275,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MOP",
     state: "Chattishgarh",
@@ -2484,7 +2484,7 @@ export const data = [
     id: 276,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "NPK",
     state: "Chattishgarh",
@@ -2493,7 +2493,7 @@ export const data = [
     id: 277,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "TSP",
     state: "Chattishgarh",
@@ -2502,7 +2502,7 @@ export const data = [
     id: 278,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "UREA",
     state: "Chattishgarh",
@@ -2511,7 +2511,7 @@ export const data = [
     id: 279,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "SSP",
     state: "Chattishgarh",
@@ -2520,7 +2520,7 @@ export const data = [
     id: 280,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "DAP",
     state: "Dadra & Nagar Haveli",
@@ -2529,7 +2529,7 @@ export const data = [
     id: 281,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MAP",
     state: "Dadra & Nagar Haveli",
@@ -2538,7 +2538,7 @@ export const data = [
     id: 282,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MOP",
     state: "Dadra & Nagar Haveli",
@@ -2547,7 +2547,7 @@ export const data = [
     id: 283,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "NPK",
     state: "Dadra & Nagar Haveli",
@@ -2556,7 +2556,7 @@ export const data = [
     id: 284,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "TSP",
     state: "Dadra & Nagar Haveli",
@@ -2565,7 +2565,7 @@ export const data = [
     id: 285,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "UREA",
     state: "Dadra & Nagar Haveli",
@@ -2574,7 +2574,7 @@ export const data = [
     id: 286,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "SSP",
     state: "Dadra & Nagar Haveli",
@@ -2583,7 +2583,7 @@ export const data = [
     id: 287,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "DAP",
     state: "Daman & Diu",
@@ -2592,7 +2592,7 @@ export const data = [
     id: 288,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MAP",
     state: "Daman & Diu",
@@ -2601,7 +2601,7 @@ export const data = [
     id: 289,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MOP",
     state: "Daman & Diu",
@@ -2610,7 +2610,7 @@ export const data = [
     id: 290,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "NPK",
     state: "Daman & Diu",
@@ -2619,7 +2619,7 @@ export const data = [
     id: 291,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "TSP",
     state: "Daman & Diu",
@@ -2628,7 +2628,7 @@ export const data = [
     id: 292,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "UREA",
     state: "Daman & Diu",
@@ -2637,7 +2637,7 @@ export const data = [
     id: 293,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "SSP",
     state: "Daman & Diu",
@@ -2646,7 +2646,7 @@ export const data = [
     id: 294,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "DAP",
     state: "Delhi",
@@ -2655,7 +2655,7 @@ export const data = [
     id: 295,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MAP",
     state: "Delhi",
@@ -2664,7 +2664,7 @@ export const data = [
     id: 296,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MOP",
     state: "Delhi",
@@ -2673,7 +2673,7 @@ export const data = [
     id: 297,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "NPK",
     state: "Delhi",
@@ -2682,7 +2682,7 @@ export const data = [
     id: 298,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "TSP",
     state: "Delhi",
@@ -2691,7 +2691,7 @@ export const data = [
     id: 299,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "UREA",
     state: "Delhi",
@@ -2700,7 +2700,7 @@ export const data = [
     id: 300,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "SSP",
     state: "Delhi",
@@ -2709,7 +2709,7 @@ export const data = [
     id: 301,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "DAP",
     state: "Goa",
@@ -2718,7 +2718,7 @@ export const data = [
     id: 302,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MAP",
     state: "Goa",
@@ -2727,7 +2727,7 @@ export const data = [
     id: 303,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MOP",
     state: "Goa",
@@ -2736,7 +2736,7 @@ export const data = [
     id: 304,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "NPK",
     state: "Goa",
@@ -2745,7 +2745,7 @@ export const data = [
     id: 305,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "TSP",
     state: "Goa",
@@ -2754,7 +2754,7 @@ export const data = [
     id: 306,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "UREA",
     state: "Goa",
@@ -2763,7 +2763,7 @@ export const data = [
     id: 307,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "SSP",
     state: "Goa",
@@ -2772,7 +2772,7 @@ export const data = [
     id: 308,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "DAP",
     state: "Gujarat",
@@ -2781,7 +2781,7 @@ export const data = [
     id: 309,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MAP",
     state: "Gujarat",
@@ -2790,7 +2790,7 @@ export const data = [
     id: 310,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MOP",
     state: "Gujarat",
@@ -2799,7 +2799,7 @@ export const data = [
     id: 311,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "NPK",
     state: "Gujarat",
@@ -2808,7 +2808,7 @@ export const data = [
     id: 312,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "TSP",
     state: "Gujarat",
@@ -2817,7 +2817,7 @@ export const data = [
     id: 313,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "UREA",
     state: "Gujarat",
@@ -2826,7 +2826,7 @@ export const data = [
     id: 314,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "SSP",
     state: "Gujarat",
@@ -2835,7 +2835,7 @@ export const data = [
     id: 315,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "DAP",
     state: "Harayana",
@@ -2844,7 +2844,7 @@ export const data = [
     id: 316,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MAP",
     state: "Harayana",
@@ -2853,7 +2853,7 @@ export const data = [
     id: 317,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MOP",
     state: "Harayana",
@@ -2862,7 +2862,7 @@ export const data = [
     id: 318,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "NPK",
     state: "Harayana",
@@ -2871,7 +2871,7 @@ export const data = [
     id: 319,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "TSP",
     state: "Harayana",
@@ -2880,7 +2880,7 @@ export const data = [
     id: 320,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "UREA",
     state: "Harayana",
@@ -2889,7 +2889,7 @@ export const data = [
     id: 321,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "SSP",
     state: "Harayana",
@@ -2898,7 +2898,7 @@ export const data = [
     id: 322,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "DAP",
     state: "Himachal Pradesh",
@@ -2907,7 +2907,7 @@ export const data = [
     id: 323,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MAP",
     state: "Himachal Pradesh",
@@ -2916,7 +2916,7 @@ export const data = [
     id: 324,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MOP",
     state: "Himachal Pradesh",
@@ -2925,7 +2925,7 @@ export const data = [
     id: 325,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "NPK",
     state: "Himachal Pradesh",
@@ -2934,7 +2934,7 @@ export const data = [
     id: 326,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "TSP",
     state: "Himachal Pradesh",
@@ -2943,7 +2943,7 @@ export const data = [
     id: 327,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "UREA",
     state: "Himachal Pradesh",
@@ -2952,7 +2952,7 @@ export const data = [
     id: 328,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "SSP",
     state: "Himachal Pradesh",
@@ -2961,7 +2961,7 @@ export const data = [
     id: 329,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "DAP",
     state: "Jammu & Kashmir",
@@ -2970,7 +2970,7 @@ export const data = [
     id: 330,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MAP",
     state: "Jammu & Kashmir",
@@ -2979,7 +2979,7 @@ export const data = [
     id: 331,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MOP",
     state: "Jammu & Kashmir",
@@ -2988,7 +2988,7 @@ export const data = [
     id: 332,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "NPK",
     state: "Jammu & Kashmir",
@@ -2997,7 +2997,7 @@ export const data = [
     id: 333,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "TSP",
     state: "Jammu & Kashmir",
@@ -3006,7 +3006,7 @@ export const data = [
     id: 334,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "UREA",
     state: "Jammu & Kashmir",
@@ -3015,7 +3015,7 @@ export const data = [
     id: 335,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "SSP",
     state: "Jammu & Kashmir",
@@ -3024,7 +3024,7 @@ export const data = [
     id: 336,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "DAP",
     state: "Jharkhand",
@@ -3033,7 +3033,7 @@ export const data = [
     id: 337,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MAP",
     state: "Jharkhand",
@@ -3042,7 +3042,7 @@ export const data = [
     id: 338,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MOP",
     state: "Jharkhand",
@@ -3051,7 +3051,7 @@ export const data = [
     id: 339,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "NPK",
     state: "Jharkhand",
@@ -3060,7 +3060,7 @@ export const data = [
     id: 340,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "TSP",
     state: "Jharkhand",
@@ -3069,7 +3069,7 @@ export const data = [
     id: 341,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "UREA",
     state: "Jharkhand",
@@ -3078,7 +3078,7 @@ export const data = [
     id: 342,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "SSP",
     state: "Jharkhand",
@@ -3087,7 +3087,7 @@ export const data = [
     id: 343,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "DAP",
     state: "Karnataka",
@@ -3096,7 +3096,7 @@ export const data = [
     id: 344,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MAP",
     state: "Karnataka",
@@ -3105,7 +3105,7 @@ export const data = [
     id: 345,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MOP",
     state: "Karnataka",
@@ -3114,7 +3114,7 @@ export const data = [
     id: 346,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "NPK",
     state: "Karnataka",
@@ -3123,7 +3123,7 @@ export const data = [
     id: 347,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "TSP",
     state: "Karnataka",
@@ -3132,7 +3132,7 @@ export const data = [
     id: 348,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "UREA",
     state: "Karnataka",
@@ -3141,7 +3141,7 @@ export const data = [
     id: 349,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "SSP",
     state: "Karnataka",
@@ -3150,7 +3150,7 @@ export const data = [
     id: 350,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "DAP",
     state: "Kerala",
@@ -3159,7 +3159,7 @@ export const data = [
     id: 351,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MAP",
     state: "Kerala",
@@ -3168,7 +3168,7 @@ export const data = [
     id: 352,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MOP",
     state: "Kerala",
@@ -3177,7 +3177,7 @@ export const data = [
     id: 353,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "NPK",
     state: "Kerala",
@@ -3186,7 +3186,7 @@ export const data = [
     id: 354,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "TSP",
     state: "Kerala",
@@ -3195,7 +3195,7 @@ export const data = [
     id: 355,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "UREA",
     state: "Kerala",
@@ -3204,7 +3204,7 @@ export const data = [
     id: 356,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "SSP",
     state: "Kerala",
@@ -3213,7 +3213,7 @@ export const data = [
     id: 357,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "DAP",
     state: "Madhya Pradesh",
@@ -3222,7 +3222,7 @@ export const data = [
     id: 358,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MAP",
     state: "Madhya Pradesh",
@@ -3231,7 +3231,7 @@ export const data = [
     id: 359,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MOP",
     state: "Madhya Pradesh",
@@ -3240,7 +3240,7 @@ export const data = [
     id: 360,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "NPK",
     state: "Madhya Pradesh",
@@ -3249,7 +3249,7 @@ export const data = [
     id: 361,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "TSP",
     state: "Madhya Pradesh",
@@ -3258,7 +3258,7 @@ export const data = [
     id: 362,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "UREA",
     state: "Madhya Pradesh",
@@ -3267,7 +3267,7 @@ export const data = [
     id: 363,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "SSP",
     state: "Madhya Pradesh",
@@ -3276,7 +3276,7 @@ export const data = [
     id: 364,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "DAP",
     state: "Maharastra",
@@ -3285,7 +3285,7 @@ export const data = [
     id: 365,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MAP",
     state: "Maharastra",
@@ -3294,7 +3294,7 @@ export const data = [
     id: 366,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MOP",
     state: "Maharastra",
@@ -3303,7 +3303,7 @@ export const data = [
     id: 367,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "NPK",
     state: "Maharastra",
@@ -3312,7 +3312,7 @@ export const data = [
     id: 368,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "TSP",
     state: "Maharastra",
@@ -3321,7 +3321,7 @@ export const data = [
     id: 369,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "UREA",
     state: "Maharastra",
@@ -3330,7 +3330,7 @@ export const data = [
     id: 370,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "SSP",
     state: "Maharastra",
@@ -3339,7 +3339,7 @@ export const data = [
     id: 371,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "DAP",
     state: "Manipur",
@@ -3348,7 +3348,7 @@ export const data = [
     id: 372,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MAP",
     state: "Manipur",
@@ -3357,7 +3357,7 @@ export const data = [
     id: 373,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MOP",
     state: "Manipur",
@@ -3366,7 +3366,7 @@ export const data = [
     id: 374,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "NPK",
     state: "Manipur",
@@ -3375,7 +3375,7 @@ export const data = [
     id: 375,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "TSP",
     state: "Manipur",
@@ -3384,7 +3384,7 @@ export const data = [
     id: 376,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "UREA",
     state: "Manipur",
@@ -3393,7 +3393,7 @@ export const data = [
     id: 377,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "SSP",
     state: "Manipur",
@@ -3402,7 +3402,7 @@ export const data = [
     id: 378,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "DAP",
     state: "Megalaya",
@@ -3411,7 +3411,7 @@ export const data = [
     id: 379,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MAP",
     state: "Megalaya",
@@ -3420,7 +3420,7 @@ export const data = [
     id: 380,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MOP",
     state: "Megalaya",
@@ -3429,7 +3429,7 @@ export const data = [
     id: 381,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "NPK",
     state: "Megalaya",
@@ -3438,7 +3438,7 @@ export const data = [
     id: 382,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "TSP",
     state: "Megalaya",
@@ -3447,7 +3447,7 @@ export const data = [
     id: 383,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "UREA",
     state: "Megalaya",
@@ -3456,7 +3456,7 @@ export const data = [
     id: 384,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "SSP",
     state: "Megalaya",
@@ -3465,7 +3465,7 @@ export const data = [
     id: 385,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "DAP",
     state: "Mizoram",
@@ -3474,7 +3474,7 @@ export const data = [
     id: 386,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MAP",
     state: "Mizoram",
@@ -3483,7 +3483,7 @@ export const data = [
     id: 387,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MOP",
     state: "Mizoram",
@@ -3492,7 +3492,7 @@ export const data = [
     id: 388,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "NPK",
     state: "Mizoram",
@@ -3501,7 +3501,7 @@ export const data = [
     id: 389,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "TSP",
     state: "Mizoram",
@@ -3510,7 +3510,7 @@ export const data = [
     id: 390,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "UREA",
     state: "Mizoram",
@@ -3519,7 +3519,7 @@ export const data = [
     id: 391,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "SSP",
     state: "Mizoram",
@@ -3528,7 +3528,7 @@ export const data = [
     id: 392,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "DAP",
     state: "Nagaland",
@@ -3537,7 +3537,7 @@ export const data = [
     id: 393,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MAP",
     state: "Nagaland",
@@ -3546,7 +3546,7 @@ export const data = [
     id: 394,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MOP",
     state: "Nagaland",
@@ -3555,7 +3555,7 @@ export const data = [
     id: 395,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "NPK",
     state: "Nagaland",
@@ -3564,7 +3564,7 @@ export const data = [
     id: 396,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "TSP",
     state: "Nagaland",
@@ -3573,7 +3573,7 @@ export const data = [
     id: 397,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "UREA",
     state: "Nagaland",
@@ -3582,7 +3582,7 @@ export const data = [
     id: 398,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "SSP",
     state: "Nagaland",
@@ -3591,7 +3591,7 @@ export const data = [
     id: 399,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "DAP",
     state: "Orissa",
@@ -3600,7 +3600,7 @@ export const data = [
     id: 400,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MAP",
     state: "Orissa",
@@ -3609,7 +3609,7 @@ export const data = [
     id: 401,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MOP",
     state: "Orissa",
@@ -3618,7 +3618,7 @@ export const data = [
     id: 402,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "NPK",
     state: "Orissa",
@@ -3627,7 +3627,7 @@ export const data = [
     id: 403,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "TSP",
     state: "Orissa",
@@ -3636,7 +3636,7 @@ export const data = [
     id: 404,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "UREA",
     state: "Orissa",
@@ -3645,7 +3645,7 @@ export const data = [
     id: 405,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "SSP",
     state: "Orissa",
@@ -3654,7 +3654,7 @@ export const data = [
     id: 406,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "DAP",
     state: "Pondicherry",
@@ -3663,7 +3663,7 @@ export const data = [
     id: 407,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MAP",
     state: "Pondicherry",
@@ -3672,7 +3672,7 @@ export const data = [
     id: 408,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MOP",
     state: "Pondicherry",
@@ -3681,7 +3681,7 @@ export const data = [
     id: 409,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "NPK",
     state: "Pondicherry",
@@ -3690,7 +3690,7 @@ export const data = [
     id: 410,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "TSP",
     state: "Pondicherry",
@@ -3699,7 +3699,7 @@ export const data = [
     id: 411,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "UREA",
     state: "Pondicherry",
@@ -3708,7 +3708,7 @@ export const data = [
     id: 412,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "SSP",
     state: "Pondicherry",
@@ -3717,7 +3717,7 @@ export const data = [
     id: 413,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "DAP",
     state: "Punjab",
@@ -3726,7 +3726,7 @@ export const data = [
     id: 414,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MAP",
     state: "Punjab",
@@ -3735,7 +3735,7 @@ export const data = [
     id: 415,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MOP",
     state: "Punjab",
@@ -3744,7 +3744,7 @@ export const data = [
     id: 416,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "NPK",
     state: "Punjab",
@@ -3753,7 +3753,7 @@ export const data = [
     id: 417,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "TSP",
     state: "Punjab",
@@ -3762,7 +3762,7 @@ export const data = [
     id: 418,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "UREA",
     state: "Punjab",
@@ -3771,7 +3771,7 @@ export const data = [
     id: 419,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "SSP",
     state: "Punjab",
@@ -3780,7 +3780,7 @@ export const data = [
     id: 420,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "DAP",
     state: "Rajasthan",
@@ -3789,7 +3789,7 @@ export const data = [
     id: 421,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MAP",
     state: "Rajasthan",
@@ -3798,7 +3798,7 @@ export const data = [
     id: 422,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MOP",
     state: "Rajasthan",
@@ -3807,7 +3807,7 @@ export const data = [
     id: 423,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "NPK",
     state: "Rajasthan",
@@ -3816,7 +3816,7 @@ export const data = [
     id: 424,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "TSP",
     state: "Rajasthan",
@@ -3825,7 +3825,7 @@ export const data = [
     id: 425,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "UREA",
     state: "Rajasthan",
@@ -3834,7 +3834,7 @@ export const data = [
     id: 426,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "SSP",
     state: "Rajasthan",
@@ -3843,7 +3843,7 @@ export const data = [
     id: 427,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "DAP",
     state: "Tamil Nadu",
@@ -3852,7 +3852,7 @@ export const data = [
     id: 428,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MAP",
     state: "Tamil Nadu",
@@ -3861,7 +3861,7 @@ export const data = [
     id: 429,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MOP",
     state: "Tamil Nadu",
@@ -3870,7 +3870,7 @@ export const data = [
     id: 430,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "NPK",
     state: "Tamil Nadu",
@@ -3879,7 +3879,7 @@ export const data = [
     id: 431,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "TSP",
     state: "Tamil Nadu",
@@ -3888,7 +3888,7 @@ export const data = [
     id: 432,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "UREA",
     state: "Tamil Nadu",
@@ -3897,7 +3897,7 @@ export const data = [
     id: 433,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "SSP",
     state: "Tamil Nadu",
@@ -3906,7 +3906,7 @@ export const data = [
     id: 434,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "DAP",
     state: "Tripura",
@@ -3915,7 +3915,7 @@ export const data = [
     id: 435,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MAP",
     state: "Tripura",
@@ -3924,7 +3924,7 @@ export const data = [
     id: 436,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MOP",
     state: "Tripura",
@@ -3933,7 +3933,7 @@ export const data = [
     id: 437,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "NPK",
     state: "Tripura",
@@ -3942,7 +3942,7 @@ export const data = [
     id: 438,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "TSP",
     state: "Tripura",
@@ -3951,7 +3951,7 @@ export const data = [
     id: 439,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "UREA",
     state: "Tripura",
@@ -3960,7 +3960,7 @@ export const data = [
     id: 440,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MOP",
     state: "Uttar Pradesh",
@@ -3969,7 +3969,7 @@ export const data = [
     id: 441,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "NPK",
     state: "Uttar Pradesh",
@@ -3978,7 +3978,7 @@ export const data = [
     id: 442,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "TSP",
     state: "Uttar Pradesh",
@@ -3987,7 +3987,7 @@ export const data = [
     id: 443,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "UREA",
     state: "Uttar Pradesh",
@@ -3996,7 +3996,7 @@ export const data = [
     id: 444,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "SSP",
     state: "Uttar Pradesh",
@@ -4005,7 +4005,7 @@ export const data = [
     id: 445,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "DAP",
     state: "Uttaranchal",
@@ -4014,7 +4014,7 @@ export const data = [
     id: 446,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MAP",
     state: "Uttaranchal",
@@ -4023,7 +4023,7 @@ export const data = [
     id: 447,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MOP",
     state: "Uttaranchal",
@@ -4032,7 +4032,7 @@ export const data = [
     id: 448,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "NPK",
     state: "Uttaranchal",
@@ -4041,7 +4041,7 @@ export const data = [
     id: 449,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "TSP",
     state: "Uttaranchal",
@@ -4050,7 +4050,7 @@ export const data = [
     id: 450,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "UREA",
     state: "Uttaranchal",
@@ -4059,7 +4059,7 @@ export const data = [
     id: 451,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "SSP",
     state: "Uttaranchal",
@@ -4068,7 +4068,7 @@ export const data = [
     id: 452,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "DAP",
     state: "West Bengal",
@@ -4077,7 +4077,7 @@ export const data = [
     id: 453,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MAP",
     state: "West Bengal",
@@ -4086,7 +4086,7 @@ export const data = [
     id: 454,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "MOP",
     state: "West Bengal",
@@ -4095,7 +4095,7 @@ export const data = [
     id: 455,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "NPK",
     state: "West Bengal",
@@ -4104,7 +4104,7 @@ export const data = [
     id: 456,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "TSP",
     state: "West Bengal",
@@ -4113,7 +4113,7 @@ export const data = [
     id: 457,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "UREA",
     state: "West Bengal",
@@ -4122,7 +4122,7 @@ export const data = [
     id: 458,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "May",
     product: "SSP",
     state: "West Bengal",
@@ -4131,7 +4131,7 @@ export const data = [
     id: 459,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "Andaman & Nicobar",
@@ -4140,7 +4140,7 @@ export const data = [
     id: 460,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "Andaman & Nicobar",
@@ -4149,7 +4149,7 @@ export const data = [
     id: 461,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "Andaman & Nicobar",
@@ -4158,7 +4158,7 @@ export const data = [
     id: 462,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "Andaman & Nicobar",
@@ -4167,7 +4167,7 @@ export const data = [
     id: 463,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "Andaman & Nicobar",
@@ -4176,7 +4176,7 @@ export const data = [
     id: 464,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "Andaman & Nicobar",
@@ -4185,7 +4185,7 @@ export const data = [
     id: 465,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "Andaman & Nicobar",
@@ -4194,7 +4194,7 @@ export const data = [
     id: 466,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "Andhra Pradesh",
@@ -4203,7 +4203,7 @@ export const data = [
     id: 467,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "Andhra Pradesh",
@@ -4212,7 +4212,7 @@ export const data = [
     id: 468,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "Andhra Pradesh",
@@ -4221,7 +4221,7 @@ export const data = [
     id: 469,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "Andhra Pradesh",
@@ -4230,7 +4230,7 @@ export const data = [
     id: 470,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "Andhra Pradesh",
@@ -4239,7 +4239,7 @@ export const data = [
     id: 471,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "Andhra Pradesh",
@@ -4248,7 +4248,7 @@ export const data = [
     id: 472,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "Andhra Pradesh",
@@ -4257,7 +4257,7 @@ export const data = [
     id: 473,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "Arunachal Pradesh",
@@ -4266,7 +4266,7 @@ export const data = [
     id: 474,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "Arunachal Pradesh",
@@ -4275,7 +4275,7 @@ export const data = [
     id: 475,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "Arunachal Pradesh",
@@ -4284,7 +4284,7 @@ export const data = [
     id: 476,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "Arunachal Pradesh",
@@ -4293,7 +4293,7 @@ export const data = [
     id: 477,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "Arunachal Pradesh",
@@ -4302,7 +4302,7 @@ export const data = [
     id: 478,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "Arunachal Pradesh",
@@ -4311,7 +4311,7 @@ export const data = [
     id: 479,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "Arunachal Pradesh",
@@ -4320,7 +4320,7 @@ export const data = [
     id: 480,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "Assam",
@@ -4329,7 +4329,7 @@ export const data = [
     id: 481,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "Assam",
@@ -4338,7 +4338,7 @@ export const data = [
     id: 482,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "Assam",
@@ -4347,7 +4347,7 @@ export const data = [
     id: 483,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "Assam",
@@ -4356,7 +4356,7 @@ export const data = [
     id: 484,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "Assam",
@@ -4365,7 +4365,7 @@ export const data = [
     id: 485,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "Assam",
@@ -4374,7 +4374,7 @@ export const data = [
     id: 486,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "Assam",
@@ -4383,7 +4383,7 @@ export const data = [
     id: 487,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "Bihar",
@@ -4392,7 +4392,7 @@ export const data = [
     id: 488,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "Bihar",
@@ -4401,7 +4401,7 @@ export const data = [
     id: 489,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "Bihar",
@@ -4410,7 +4410,7 @@ export const data = [
     id: 490,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "Bihar",
@@ -4419,7 +4419,7 @@ export const data = [
     id: 491,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "Bihar",
@@ -4428,7 +4428,7 @@ export const data = [
     id: 492,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "Bihar",
@@ -4437,7 +4437,7 @@ export const data = [
     id: 493,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "Bihar",
@@ -4446,7 +4446,7 @@ export const data = [
     id: 494,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "Chandigarh",
@@ -4455,7 +4455,7 @@ export const data = [
     id: 495,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "Chandigarh",
@@ -4464,7 +4464,7 @@ export const data = [
     id: 496,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "Chandigarh",
@@ -4473,7 +4473,7 @@ export const data = [
     id: 497,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "Chandigarh",
@@ -4482,7 +4482,7 @@ export const data = [
     id: 498,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "Chandigarh",
@@ -4491,7 +4491,7 @@ export const data = [
     id: 499,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "Chandigarh",
@@ -4500,7 +4500,7 @@ export const data = [
     id: 500,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "Chandigarh",
@@ -4509,7 +4509,7 @@ export const data = [
     id: 501,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "Chattishgarh",
@@ -4518,7 +4518,7 @@ export const data = [
     id: 502,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "Chattishgarh",
@@ -4527,7 +4527,7 @@ export const data = [
     id: 503,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "Chattishgarh",
@@ -4536,7 +4536,7 @@ export const data = [
     id: 504,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "Chattishgarh",
@@ -4545,7 +4545,7 @@ export const data = [
     id: 505,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "Chattishgarh",
@@ -4554,7 +4554,7 @@ export const data = [
     id: 506,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "Chattishgarh",
@@ -4563,7 +4563,7 @@ export const data = [
     id: 507,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "Chattishgarh",
@@ -4572,7 +4572,7 @@ export const data = [
     id: 508,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "Dadra & Nagar Haveli",
@@ -4581,7 +4581,7 @@ export const data = [
     id: 509,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "Dadra & Nagar Haveli",
@@ -4590,7 +4590,7 @@ export const data = [
     id: 510,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "Dadra & Nagar Haveli",
@@ -4599,7 +4599,7 @@ export const data = [
     id: 511,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "Dadra & Nagar Haveli",
@@ -4608,7 +4608,7 @@ export const data = [
     id: 512,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "Dadra & Nagar Haveli",
@@ -4617,7 +4617,7 @@ export const data = [
     id: 513,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "Dadra & Nagar Haveli",
@@ -4626,7 +4626,7 @@ export const data = [
     id: 514,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "Dadra & Nagar Haveli",
@@ -4635,7 +4635,7 @@ export const data = [
     id: 515,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "Daman & Diu",
@@ -4644,7 +4644,7 @@ export const data = [
     id: 516,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "Daman & Diu",
@@ -4653,7 +4653,7 @@ export const data = [
     id: 517,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "Daman & Diu",
@@ -4662,7 +4662,7 @@ export const data = [
     id: 518,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "Daman & Diu",
@@ -4671,7 +4671,7 @@ export const data = [
     id: 519,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "Daman & Diu",
@@ -4680,7 +4680,7 @@ export const data = [
     id: 520,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "Daman & Diu",
@@ -4689,7 +4689,7 @@ export const data = [
     id: 521,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "Daman & Diu",
@@ -4698,7 +4698,7 @@ export const data = [
     id: 522,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "Delhi",
@@ -4707,7 +4707,7 @@ export const data = [
     id: 523,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "Delhi",
@@ -4716,7 +4716,7 @@ export const data = [
     id: 524,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "Delhi",
@@ -4725,7 +4725,7 @@ export const data = [
     id: 525,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "Delhi",
@@ -4734,7 +4734,7 @@ export const data = [
     id: 526,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "Delhi",
@@ -4743,7 +4743,7 @@ export const data = [
     id: 527,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "Delhi",
@@ -4752,7 +4752,7 @@ export const data = [
     id: 528,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "Delhi",
@@ -4761,7 +4761,7 @@ export const data = [
     id: 529,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "Goa",
@@ -4770,7 +4770,7 @@ export const data = [
     id: 530,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "Goa",
@@ -4779,7 +4779,7 @@ export const data = [
     id: 531,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "Goa",
@@ -4788,7 +4788,7 @@ export const data = [
     id: 532,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "Goa",
@@ -4797,7 +4797,7 @@ export const data = [
     id: 533,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "Goa",
@@ -4806,7 +4806,7 @@ export const data = [
     id: 534,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "Goa",
@@ -4815,7 +4815,7 @@ export const data = [
     id: 535,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "Goa",
@@ -4824,7 +4824,7 @@ export const data = [
     id: 536,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "Gujarat",
@@ -4833,7 +4833,7 @@ export const data = [
     id: 537,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "Gujarat",
@@ -4842,7 +4842,7 @@ export const data = [
     id: 538,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "Gujarat",
@@ -4851,7 +4851,7 @@ export const data = [
     id: 539,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "Gujarat",
@@ -4860,7 +4860,7 @@ export const data = [
     id: 540,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "Gujarat",
@@ -4869,7 +4869,7 @@ export const data = [
     id: 541,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "Gujarat",
@@ -4878,7 +4878,7 @@ export const data = [
     id: 542,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "Gujarat",
@@ -4887,7 +4887,7 @@ export const data = [
     id: 543,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "Harayana",
@@ -4896,7 +4896,7 @@ export const data = [
     id: 544,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "Harayana",
@@ -4905,7 +4905,7 @@ export const data = [
     id: 545,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "Harayana",
@@ -4914,7 +4914,7 @@ export const data = [
     id: 546,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "Harayana",
@@ -4923,7 +4923,7 @@ export const data = [
     id: 547,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "Harayana",
@@ -4932,7 +4932,7 @@ export const data = [
     id: 548,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "Harayana",
@@ -4941,7 +4941,7 @@ export const data = [
     id: 549,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "Harayana",
@@ -4950,7 +4950,7 @@ export const data = [
     id: 550,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "Himachal Pradesh",
@@ -4959,7 +4959,7 @@ export const data = [
     id: 551,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "Himachal Pradesh",
@@ -4968,7 +4968,7 @@ export const data = [
     id: 552,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "Himachal Pradesh",
@@ -4977,7 +4977,7 @@ export const data = [
     id: 553,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "Himachal Pradesh",
@@ -4986,7 +4986,7 @@ export const data = [
     id: 554,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "Himachal Pradesh",
@@ -4995,7 +4995,7 @@ export const data = [
     id: 555,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "Himachal Pradesh",
@@ -5004,7 +5004,7 @@ export const data = [
     id: 556,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "Himachal Pradesh",
@@ -5013,7 +5013,7 @@ export const data = [
     id: 557,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "Jammu & Kashmir",
@@ -5022,7 +5022,7 @@ export const data = [
     id: 558,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "Jammu & Kashmir",
@@ -5031,7 +5031,7 @@ export const data = [
     id: 559,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "Jammu & Kashmir",
@@ -5040,7 +5040,7 @@ export const data = [
     id: 560,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "Jammu & Kashmir",
@@ -5049,7 +5049,7 @@ export const data = [
     id: 561,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "Jammu & Kashmir",
@@ -5058,7 +5058,7 @@ export const data = [
     id: 562,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "Jammu & Kashmir",
@@ -5067,7 +5067,7 @@ export const data = [
     id: 563,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "Jammu & Kashmir",
@@ -5076,7 +5076,7 @@ export const data = [
     id: 564,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "Jharkhand",
@@ -5085,7 +5085,7 @@ export const data = [
     id: 565,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "Jharkhand",
@@ -5094,7 +5094,7 @@ export const data = [
     id: 566,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "Jharkhand",
@@ -5103,7 +5103,7 @@ export const data = [
     id: 567,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "Jharkhand",
@@ -5112,7 +5112,7 @@ export const data = [
     id: 568,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "Jharkhand",
@@ -5121,7 +5121,7 @@ export const data = [
     id: 569,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "Jharkhand",
@@ -5130,7 +5130,7 @@ export const data = [
     id: 570,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "Jharkhand",
@@ -5139,7 +5139,7 @@ export const data = [
     id: 571,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "Karnataka",
@@ -5148,7 +5148,7 @@ export const data = [
     id: 572,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "Karnataka",
@@ -5157,7 +5157,7 @@ export const data = [
     id: 573,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "Karnataka",
@@ -5166,7 +5166,7 @@ export const data = [
     id: 574,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "Karnataka",
@@ -5175,7 +5175,7 @@ export const data = [
     id: 575,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "Karnataka",
@@ -5184,7 +5184,7 @@ export const data = [
     id: 576,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "Karnataka",
@@ -5193,7 +5193,7 @@ export const data = [
     id: 577,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "Karnataka",
@@ -5202,7 +5202,7 @@ export const data = [
     id: 578,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "Kerala",
@@ -5211,7 +5211,7 @@ export const data = [
     id: 579,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "Kerala",
@@ -5220,7 +5220,7 @@ export const data = [
     id: 580,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "Kerala",
@@ -5229,7 +5229,7 @@ export const data = [
     id: 581,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "Kerala",
@@ -5238,7 +5238,7 @@ export const data = [
     id: 582,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "Kerala",
@@ -5247,7 +5247,7 @@ export const data = [
     id: 583,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "Kerala",
@@ -5256,7 +5256,7 @@ export const data = [
     id: 584,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "Kerala",
@@ -5265,7 +5265,7 @@ export const data = [
     id: 585,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "Madhya Pradesh",
@@ -5274,7 +5274,7 @@ export const data = [
     id: 586,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "Madhya Pradesh",
@@ -5283,7 +5283,7 @@ export const data = [
     id: 587,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "Madhya Pradesh",
@@ -5292,7 +5292,7 @@ export const data = [
     id: 588,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "Madhya Pradesh",
@@ -5301,7 +5301,7 @@ export const data = [
     id: 589,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "Madhya Pradesh",
@@ -5310,7 +5310,7 @@ export const data = [
     id: 590,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "Madhya Pradesh",
@@ -5319,7 +5319,7 @@ export const data = [
     id: 591,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "Madhya Pradesh",
@@ -5328,7 +5328,7 @@ export const data = [
     id: 592,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "Maharastra",
@@ -5337,7 +5337,7 @@ export const data = [
     id: 593,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "Maharastra",
@@ -5346,7 +5346,7 @@ export const data = [
     id: 594,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "Maharastra",
@@ -5355,7 +5355,7 @@ export const data = [
     id: 595,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "Maharastra",
@@ -5364,7 +5364,7 @@ export const data = [
     id: 596,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "Maharastra",
@@ -5373,7 +5373,7 @@ export const data = [
     id: 597,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "Maharastra",
@@ -5382,7 +5382,7 @@ export const data = [
     id: 598,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "Maharastra",
@@ -5391,7 +5391,7 @@ export const data = [
     id: 599,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "Manipur",
@@ -5400,7 +5400,7 @@ export const data = [
     id: 600,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "Manipur",
@@ -5409,7 +5409,7 @@ export const data = [
     id: 601,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "Manipur",
@@ -5418,7 +5418,7 @@ export const data = [
     id: 602,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "Manipur",
@@ -5427,7 +5427,7 @@ export const data = [
     id: 603,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "Manipur",
@@ -5436,7 +5436,7 @@ export const data = [
     id: 604,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "Manipur",
@@ -5445,7 +5445,7 @@ export const data = [
     id: 605,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "Manipur",
@@ -5454,7 +5454,7 @@ export const data = [
     id: 606,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "Megalaya",
@@ -5463,7 +5463,7 @@ export const data = [
     id: 607,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "Megalaya",
@@ -5472,7 +5472,7 @@ export const data = [
     id: 608,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "Megalaya",
@@ -5481,7 +5481,7 @@ export const data = [
     id: 609,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "Megalaya",
@@ -5490,7 +5490,7 @@ export const data = [
     id: 610,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "Megalaya",
@@ -5499,7 +5499,7 @@ export const data = [
     id: 611,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "Megalaya",
@@ -5508,7 +5508,7 @@ export const data = [
     id: 612,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "Megalaya",
@@ -5517,7 +5517,7 @@ export const data = [
     id: 613,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "Mizoram",
@@ -5526,7 +5526,7 @@ export const data = [
     id: 614,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "Mizoram",
@@ -5535,7 +5535,7 @@ export const data = [
     id: 615,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "Mizoram",
@@ -5544,7 +5544,7 @@ export const data = [
     id: 616,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "Mizoram",
@@ -5553,7 +5553,7 @@ export const data = [
     id: 617,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "Mizoram",
@@ -5562,7 +5562,7 @@ export const data = [
     id: 618,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "Mizoram",
@@ -5571,7 +5571,7 @@ export const data = [
     id: 619,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "Mizoram",
@@ -5580,7 +5580,7 @@ export const data = [
     id: 620,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "Nagaland",
@@ -5589,7 +5589,7 @@ export const data = [
     id: 621,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "Nagaland",
@@ -5598,7 +5598,7 @@ export const data = [
     id: 622,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "Nagaland",
@@ -5607,7 +5607,7 @@ export const data = [
     id: 623,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "Nagaland",
@@ -5616,7 +5616,7 @@ export const data = [
     id: 624,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "Nagaland",
@@ -5625,7 +5625,7 @@ export const data = [
     id: 625,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "Nagaland",
@@ -5634,7 +5634,7 @@ export const data = [
     id: 626,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "Nagaland",
@@ -5643,7 +5643,7 @@ export const data = [
     id: 627,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "Orissa",
@@ -5652,7 +5652,7 @@ export const data = [
     id: 628,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "Orissa",
@@ -5661,7 +5661,7 @@ export const data = [
     id: 629,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "Orissa",
@@ -5670,7 +5670,7 @@ export const data = [
     id: 630,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "Orissa",
@@ -5679,7 +5679,7 @@ export const data = [
     id: 631,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "Orissa",
@@ -5688,7 +5688,7 @@ export const data = [
     id: 632,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "Orissa",
@@ -5697,7 +5697,7 @@ export const data = [
     id: 633,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "Orissa",
@@ -5706,7 +5706,7 @@ export const data = [
     id: 634,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "Pondicherry",
@@ -5715,7 +5715,7 @@ export const data = [
     id: 635,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "Pondicherry",
@@ -5724,7 +5724,7 @@ export const data = [
     id: 636,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "Pondicherry",
@@ -5733,7 +5733,7 @@ export const data = [
     id: 637,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "Pondicherry",
@@ -5742,7 +5742,7 @@ export const data = [
     id: 638,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "Pondicherry",
@@ -5751,7 +5751,7 @@ export const data = [
     id: 639,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "Pondicherry",
@@ -5760,7 +5760,7 @@ export const data = [
     id: 640,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "Pondicherry",
@@ -5769,7 +5769,7 @@ export const data = [
     id: 641,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "Punjab",
@@ -5778,7 +5778,7 @@ export const data = [
     id: 642,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "Punjab",
@@ -5787,7 +5787,7 @@ export const data = [
     id: 643,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "Punjab",
@@ -5796,7 +5796,7 @@ export const data = [
     id: 644,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "Punjab",
@@ -5805,7 +5805,7 @@ export const data = [
     id: 645,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "Punjab",
@@ -5814,7 +5814,7 @@ export const data = [
     id: 646,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "Punjab",
@@ -5823,7 +5823,7 @@ export const data = [
     id: 647,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "Punjab",
@@ -5832,7 +5832,7 @@ export const data = [
     id: 648,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "Rajasthan",
@@ -5841,7 +5841,7 @@ export const data = [
     id: 649,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "Rajasthan",
@@ -5850,7 +5850,7 @@ export const data = [
     id: 650,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "Rajasthan",
@@ -5859,7 +5859,7 @@ export const data = [
     id: 651,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "Rajasthan",
@@ -5868,7 +5868,7 @@ export const data = [
     id: 652,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "Rajasthan",
@@ -5877,7 +5877,7 @@ export const data = [
     id: 653,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "Rajasthan",
@@ -5886,7 +5886,7 @@ export const data = [
     id: 654,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "Rajasthan",
@@ -5895,7 +5895,7 @@ export const data = [
     id: 655,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "Tamil Nadu",
@@ -5904,7 +5904,7 @@ export const data = [
     id: 656,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "Tamil Nadu",
@@ -5913,7 +5913,7 @@ export const data = [
     id: 657,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "Tamil Nadu",
@@ -5922,7 +5922,7 @@ export const data = [
     id: 658,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "Tamil Nadu",
@@ -5931,7 +5931,7 @@ export const data = [
     id: 659,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "Tamil Nadu",
@@ -5940,7 +5940,7 @@ export const data = [
     id: 660,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "Tamil Nadu",
@@ -5949,7 +5949,7 @@ export const data = [
     id: 661,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "Tamil Nadu",
@@ -5958,7 +5958,7 @@ export const data = [
     id: 662,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "Telangana",
@@ -5967,7 +5967,7 @@ export const data = [
     id: 663,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "Telangana",
@@ -5976,7 +5976,7 @@ export const data = [
     id: 664,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "Telangana",
@@ -5985,7 +5985,7 @@ export const data = [
     id: 665,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "Telangana",
@@ -5994,7 +5994,7 @@ export const data = [
     id: 666,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "Telangana",
@@ -6003,7 +6003,7 @@ export const data = [
     id: 667,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "Telangana",
@@ -6012,7 +6012,7 @@ export const data = [
     id: 668,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "Telangana",
@@ -6021,7 +6021,7 @@ export const data = [
     id: 669,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "Tripura",
@@ -6030,7 +6030,7 @@ export const data = [
     id: 670,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "Tripura",
@@ -6039,7 +6039,7 @@ export const data = [
     id: 671,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "Tripura",
@@ -6048,7 +6048,7 @@ export const data = [
     id: 672,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "Tripura",
@@ -6057,7 +6057,7 @@ export const data = [
     id: 673,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "Tripura",
@@ -6066,7 +6066,7 @@ export const data = [
     id: 674,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "Tripura",
@@ -6075,7 +6075,7 @@ export const data = [
     id: 675,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "Tripura",
@@ -6084,7 +6084,7 @@ export const data = [
     id: 676,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "Uttar Pradesh",
@@ -6093,7 +6093,7 @@ export const data = [
     id: 677,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "Uttar Pradesh",
@@ -6102,7 +6102,7 @@ export const data = [
     id: 678,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "Uttar Pradesh",
@@ -6111,7 +6111,7 @@ export const data = [
     id: 679,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "Uttar Pradesh",
@@ -6120,7 +6120,7 @@ export const data = [
     id: 680,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "Uttar Pradesh",
@@ -6129,7 +6129,7 @@ export const data = [
     id: 681,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "Uttar Pradesh",
@@ -6138,7 +6138,7 @@ export const data = [
     id: 682,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "Uttar Pradesh",
@@ -6147,7 +6147,7 @@ export const data = [
     id: 683,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "Uttaranchal",
@@ -6156,7 +6156,7 @@ export const data = [
     id: 684,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "Uttaranchal",
@@ -6165,7 +6165,7 @@ export const data = [
     id: 685,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "Uttaranchal",
@@ -6174,7 +6174,7 @@ export const data = [
     id: 686,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "Uttaranchal",
@@ -6183,7 +6183,7 @@ export const data = [
     id: 687,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "Uttaranchal",
@@ -6192,7 +6192,7 @@ export const data = [
     id: 688,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "Uttaranchal",
@@ -6201,7 +6201,7 @@ export const data = [
     id: 689,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "Uttaranchal",
@@ -6210,7 +6210,7 @@ export const data = [
     id: 690,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "DAP",
     state: "West Bengal",
@@ -6219,7 +6219,7 @@ export const data = [
     id: 691,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MAP",
     state: "West Bengal",
@@ -6228,7 +6228,7 @@ export const data = [
     id: 692,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "MOP",
     state: "West Bengal",
@@ -6237,7 +6237,7 @@ export const data = [
     id: 693,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "NPK",
     state: "West Bengal",
@@ -6246,7 +6246,7 @@ export const data = [
     id: 694,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "TSP",
     state: "West Bengal",
@@ -6255,7 +6255,7 @@ export const data = [
     id: 695,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "UREA",
     state: "West Bengal",
@@ -6264,7 +6264,7 @@ export const data = [
     id: 696,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "June",
     product: "SSP",
     state: "West Bengal",
@@ -6273,7 +6273,7 @@ export const data = [
     id: 697,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "Andaman & Nicobar",
@@ -6282,7 +6282,7 @@ export const data = [
     id: 698,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "Andaman & Nicobar",
@@ -6291,7 +6291,7 @@ export const data = [
     id: 699,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "Andaman & Nicobar",
@@ -6300,7 +6300,7 @@ export const data = [
     id: 700,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "Andaman & Nicobar",
@@ -6309,7 +6309,7 @@ export const data = [
     id: 701,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "Andaman & Nicobar",
@@ -6318,7 +6318,7 @@ export const data = [
     id: 702,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "Andaman & Nicobar",
@@ -6327,7 +6327,7 @@ export const data = [
     id: 703,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "Andaman & Nicobar",
@@ -6336,7 +6336,7 @@ export const data = [
     id: 704,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "Andhra Pradesh",
@@ -6345,7 +6345,7 @@ export const data = [
     id: 705,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "Andhra Pradesh",
@@ -6354,7 +6354,7 @@ export const data = [
     id: 706,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "Andhra Pradesh",
@@ -6363,7 +6363,7 @@ export const data = [
     id: 707,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "Andhra Pradesh",
@@ -6372,7 +6372,7 @@ export const data = [
     id: 708,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "Andhra Pradesh",
@@ -6381,7 +6381,7 @@ export const data = [
     id: 709,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "Andhra Pradesh",
@@ -6390,7 +6390,7 @@ export const data = [
     id: 710,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "Andhra Pradesh",
@@ -6399,7 +6399,7 @@ export const data = [
     id: 711,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "Arunachal Pradesh",
@@ -6408,7 +6408,7 @@ export const data = [
     id: 712,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "Arunachal Pradesh",
@@ -6417,7 +6417,7 @@ export const data = [
     id: 713,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "Arunachal Pradesh",
@@ -6426,7 +6426,7 @@ export const data = [
     id: 714,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "Arunachal Pradesh",
@@ -6435,7 +6435,7 @@ export const data = [
     id: 715,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "Arunachal Pradesh",
@@ -6444,7 +6444,7 @@ export const data = [
     id: 716,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "Arunachal Pradesh",
@@ -6453,7 +6453,7 @@ export const data = [
     id: 717,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "Arunachal Pradesh",
@@ -6462,7 +6462,7 @@ export const data = [
     id: 718,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "Assam",
@@ -6471,7 +6471,7 @@ export const data = [
     id: 719,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "Assam",
@@ -6480,7 +6480,7 @@ export const data = [
     id: 720,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "Assam",
@@ -6489,7 +6489,7 @@ export const data = [
     id: 721,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "Assam",
@@ -6498,7 +6498,7 @@ export const data = [
     id: 722,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "Assam",
@@ -6507,7 +6507,7 @@ export const data = [
     id: 723,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "Assam",
@@ -6516,7 +6516,7 @@ export const data = [
     id: 724,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "Assam",
@@ -6525,7 +6525,7 @@ export const data = [
     id: 725,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "Bihar",
@@ -6534,7 +6534,7 @@ export const data = [
     id: 726,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "Bihar",
@@ -6543,7 +6543,7 @@ export const data = [
     id: 727,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "Bihar",
@@ -6552,7 +6552,7 @@ export const data = [
     id: 728,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "Bihar",
@@ -6561,7 +6561,7 @@ export const data = [
     id: 729,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "Bihar",
@@ -6570,7 +6570,7 @@ export const data = [
     id: 730,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "Bihar",
@@ -6579,7 +6579,7 @@ export const data = [
     id: 731,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "Bihar",
@@ -6588,7 +6588,7 @@ export const data = [
     id: 732,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "Chandigarh",
@@ -6597,7 +6597,7 @@ export const data = [
     id: 733,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "Chandigarh",
@@ -6606,7 +6606,7 @@ export const data = [
     id: 734,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "Chandigarh",
@@ -6615,7 +6615,7 @@ export const data = [
     id: 735,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "Chandigarh",
@@ -6624,7 +6624,7 @@ export const data = [
     id: 736,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "Chandigarh",
@@ -6633,7 +6633,7 @@ export const data = [
     id: 737,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "Chandigarh",
@@ -6642,7 +6642,7 @@ export const data = [
     id: 738,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "Chandigarh",
@@ -6651,7 +6651,7 @@ export const data = [
     id: 739,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "Chattishgarh",
@@ -6660,7 +6660,7 @@ export const data = [
     id: 740,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "Chattishgarh",
@@ -6669,7 +6669,7 @@ export const data = [
     id: 741,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "Chattishgarh",
@@ -6678,7 +6678,7 @@ export const data = [
     id: 742,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "Chattishgarh",
@@ -6687,7 +6687,7 @@ export const data = [
     id: 743,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "Chattishgarh",
@@ -6696,7 +6696,7 @@ export const data = [
     id: 744,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "Chattishgarh",
@@ -6705,7 +6705,7 @@ export const data = [
     id: 745,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "Chattishgarh",
@@ -6714,7 +6714,7 @@ export const data = [
     id: 746,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "Dadra & Nagar Haveli",
@@ -6723,7 +6723,7 @@ export const data = [
     id: 747,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "Dadra & Nagar Haveli",
@@ -6732,7 +6732,7 @@ export const data = [
     id: 748,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "Dadra & Nagar Haveli",
@@ -6741,7 +6741,7 @@ export const data = [
     id: 749,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "Dadra & Nagar Haveli",
@@ -6750,7 +6750,7 @@ export const data = [
     id: 750,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "Dadra & Nagar Haveli",
@@ -6759,7 +6759,7 @@ export const data = [
     id: 751,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "Dadra & Nagar Haveli",
@@ -6768,7 +6768,7 @@ export const data = [
     id: 752,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "Dadra & Nagar Haveli",
@@ -6777,7 +6777,7 @@ export const data = [
     id: 753,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "Daman & Diu",
@@ -6786,7 +6786,7 @@ export const data = [
     id: 754,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "Daman & Diu",
@@ -6795,7 +6795,7 @@ export const data = [
     id: 755,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "Daman & Diu",
@@ -6804,7 +6804,7 @@ export const data = [
     id: 756,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "Daman & Diu",
@@ -6813,7 +6813,7 @@ export const data = [
     id: 757,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "Daman & Diu",
@@ -6822,7 +6822,7 @@ export const data = [
     id: 758,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "Daman & Diu",
@@ -6831,7 +6831,7 @@ export const data = [
     id: 759,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "Daman & Diu",
@@ -6840,7 +6840,7 @@ export const data = [
     id: 760,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "Delhi",
@@ -6849,7 +6849,7 @@ export const data = [
     id: 761,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "Delhi",
@@ -6858,7 +6858,7 @@ export const data = [
     id: 762,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "Delhi",
@@ -6867,7 +6867,7 @@ export const data = [
     id: 763,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "Delhi",
@@ -6876,7 +6876,7 @@ export const data = [
     id: 764,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "Delhi",
@@ -6885,7 +6885,7 @@ export const data = [
     id: 765,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "Delhi",
@@ -6894,7 +6894,7 @@ export const data = [
     id: 766,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "Delhi",
@@ -6903,7 +6903,7 @@ export const data = [
     id: 767,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "Goa",
@@ -6912,7 +6912,7 @@ export const data = [
     id: 768,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "Goa",
@@ -6921,7 +6921,7 @@ export const data = [
     id: 769,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "Goa",
@@ -6930,7 +6930,7 @@ export const data = [
     id: 770,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "Goa",
@@ -6939,7 +6939,7 @@ export const data = [
     id: 771,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "Goa",
@@ -6948,7 +6948,7 @@ export const data = [
     id: 772,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "Goa",
@@ -6957,7 +6957,7 @@ export const data = [
     id: 773,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "Goa",
@@ -6966,7 +6966,7 @@ export const data = [
     id: 774,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "Gujarat",
@@ -6975,7 +6975,7 @@ export const data = [
     id: 775,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "Gujarat",
@@ -6984,7 +6984,7 @@ export const data = [
     id: 776,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "Gujarat",
@@ -6993,7 +6993,7 @@ export const data = [
     id: 777,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "Gujarat",
@@ -7002,7 +7002,7 @@ export const data = [
     id: 778,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "Gujarat",
@@ -7011,7 +7011,7 @@ export const data = [
     id: 779,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "Gujarat",
@@ -7020,7 +7020,7 @@ export const data = [
     id: 780,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "Gujarat",
@@ -7029,7 +7029,7 @@ export const data = [
     id: 781,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "Harayana",
@@ -7038,7 +7038,7 @@ export const data = [
     id: 782,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "Harayana",
@@ -7047,7 +7047,7 @@ export const data = [
     id: 783,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "Harayana",
@@ -7056,7 +7056,7 @@ export const data = [
     id: 784,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "Harayana",
@@ -7065,7 +7065,7 @@ export const data = [
     id: 785,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "Harayana",
@@ -7074,7 +7074,7 @@ export const data = [
     id: 786,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "Harayana",
@@ -7083,7 +7083,7 @@ export const data = [
     id: 787,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "Harayana",
@@ -7092,7 +7092,7 @@ export const data = [
     id: 788,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "Himachal Pradesh",
@@ -7101,7 +7101,7 @@ export const data = [
     id: 789,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "Himachal Pradesh",
@@ -7110,7 +7110,7 @@ export const data = [
     id: 790,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "Himachal Pradesh",
@@ -7119,7 +7119,7 @@ export const data = [
     id: 791,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "Himachal Pradesh",
@@ -7128,7 +7128,7 @@ export const data = [
     id: 792,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "Himachal Pradesh",
@@ -7137,7 +7137,7 @@ export const data = [
     id: 793,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "Himachal Pradesh",
@@ -7146,7 +7146,7 @@ export const data = [
     id: 794,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "Himachal Pradesh",
@@ -7155,7 +7155,7 @@ export const data = [
     id: 795,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "Jammu & Kashmir",
@@ -7164,7 +7164,7 @@ export const data = [
     id: 796,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "Jammu & Kashmir",
@@ -7173,7 +7173,7 @@ export const data = [
     id: 797,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "Jammu & Kashmir",
@@ -7182,7 +7182,7 @@ export const data = [
     id: 798,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "Jammu & Kashmir",
@@ -7191,7 +7191,7 @@ export const data = [
     id: 799,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "Jammu & Kashmir",
@@ -7200,7 +7200,7 @@ export const data = [
     id: 800,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "Jammu & Kashmir",
@@ -7209,7 +7209,7 @@ export const data = [
     id: 801,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "Jammu & Kashmir",
@@ -7218,7 +7218,7 @@ export const data = [
     id: 802,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "Jharkhand",
@@ -7227,7 +7227,7 @@ export const data = [
     id: 803,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "Jharkhand",
@@ -7236,7 +7236,7 @@ export const data = [
     id: 804,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "Jharkhand",
@@ -7245,7 +7245,7 @@ export const data = [
     id: 805,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "Jharkhand",
@@ -7254,7 +7254,7 @@ export const data = [
     id: 806,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "Jharkhand",
@@ -7263,7 +7263,7 @@ export const data = [
     id: 807,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "Jharkhand",
@@ -7272,7 +7272,7 @@ export const data = [
     id: 808,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "Jharkhand",
@@ -7281,7 +7281,7 @@ export const data = [
     id: 809,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "Karnataka",
@@ -7290,7 +7290,7 @@ export const data = [
     id: 810,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "Karnataka",
@@ -7299,7 +7299,7 @@ export const data = [
     id: 811,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "Karnataka",
@@ -7308,7 +7308,7 @@ export const data = [
     id: 812,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "Karnataka",
@@ -7317,7 +7317,7 @@ export const data = [
     id: 813,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "Karnataka",
@@ -7326,7 +7326,7 @@ export const data = [
     id: 814,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "Karnataka",
@@ -7335,7 +7335,7 @@ export const data = [
     id: 815,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "Karnataka",
@@ -7344,7 +7344,7 @@ export const data = [
     id: 816,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "Kerala",
@@ -7353,7 +7353,7 @@ export const data = [
     id: 817,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "Kerala",
@@ -7362,7 +7362,7 @@ export const data = [
     id: 818,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "Kerala",
@@ -7371,7 +7371,7 @@ export const data = [
     id: 819,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "Kerala",
@@ -7380,7 +7380,7 @@ export const data = [
     id: 820,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "Kerala",
@@ -7389,7 +7389,7 @@ export const data = [
     id: 821,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "Kerala",
@@ -7398,7 +7398,7 @@ export const data = [
     id: 822,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "Kerala",
@@ -7407,7 +7407,7 @@ export const data = [
     id: 823,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "Madhya Pradesh",
@@ -7416,7 +7416,7 @@ export const data = [
     id: 824,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "Madhya Pradesh",
@@ -7425,7 +7425,7 @@ export const data = [
     id: 825,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "Madhya Pradesh",
@@ -7434,7 +7434,7 @@ export const data = [
     id: 826,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "Madhya Pradesh",
@@ -7443,7 +7443,7 @@ export const data = [
     id: 827,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "Madhya Pradesh",
@@ -7452,7 +7452,7 @@ export const data = [
     id: 828,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "Madhya Pradesh",
@@ -7461,7 +7461,7 @@ export const data = [
     id: 829,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "Madhya Pradesh",
@@ -7470,7 +7470,7 @@ export const data = [
     id: 830,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "Maharastra",
@@ -7479,7 +7479,7 @@ export const data = [
     id: 831,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "Maharastra",
@@ -7488,7 +7488,7 @@ export const data = [
     id: 832,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "Maharastra",
@@ -7497,7 +7497,7 @@ export const data = [
     id: 833,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "Maharastra",
@@ -7506,7 +7506,7 @@ export const data = [
     id: 834,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "Maharastra",
@@ -7515,7 +7515,7 @@ export const data = [
     id: 835,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "Maharastra",
@@ -7524,7 +7524,7 @@ export const data = [
     id: 836,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "Maharastra",
@@ -7533,7 +7533,7 @@ export const data = [
     id: 837,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "Manipur",
@@ -7542,7 +7542,7 @@ export const data = [
     id: 838,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "Manipur",
@@ -7551,7 +7551,7 @@ export const data = [
     id: 839,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "Manipur",
@@ -7560,7 +7560,7 @@ export const data = [
     id: 840,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "Manipur",
@@ -7569,7 +7569,7 @@ export const data = [
     id: 841,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "Manipur",
@@ -7578,7 +7578,7 @@ export const data = [
     id: 842,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "Manipur",
@@ -7587,7 +7587,7 @@ export const data = [
     id: 843,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "Manipur",
@@ -7596,7 +7596,7 @@ export const data = [
     id: 844,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "Megalaya",
@@ -7605,7 +7605,7 @@ export const data = [
     id: 845,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "Megalaya",
@@ -7614,7 +7614,7 @@ export const data = [
     id: 846,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "Megalaya",
@@ -7623,7 +7623,7 @@ export const data = [
     id: 847,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "Megalaya",
@@ -7632,7 +7632,7 @@ export const data = [
     id: 848,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "Megalaya",
@@ -7641,7 +7641,7 @@ export const data = [
     id: 849,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "Megalaya",
@@ -7650,7 +7650,7 @@ export const data = [
     id: 850,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "Megalaya",
@@ -7659,7 +7659,7 @@ export const data = [
     id: 851,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "Mizoram",
@@ -7668,7 +7668,7 @@ export const data = [
     id: 852,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "Mizoram",
@@ -7677,7 +7677,7 @@ export const data = [
     id: 853,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "Mizoram",
@@ -7686,7 +7686,7 @@ export const data = [
     id: 854,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "Mizoram",
@@ -7695,7 +7695,7 @@ export const data = [
     id: 855,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "Mizoram",
@@ -7704,7 +7704,7 @@ export const data = [
     id: 856,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "Mizoram",
@@ -7713,7 +7713,7 @@ export const data = [
     id: 857,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "Mizoram",
@@ -7722,7 +7722,7 @@ export const data = [
     id: 858,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "Nagaland",
@@ -7731,7 +7731,7 @@ export const data = [
     id: 859,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "Nagaland",
@@ -7740,7 +7740,7 @@ export const data = [
     id: 860,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "Nagaland",
@@ -7749,7 +7749,7 @@ export const data = [
     id: 861,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "Nagaland",
@@ -7758,7 +7758,7 @@ export const data = [
     id: 862,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "Nagaland",
@@ -7767,7 +7767,7 @@ export const data = [
     id: 863,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "Nagaland",
@@ -7776,7 +7776,7 @@ export const data = [
     id: 864,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "Nagaland",
@@ -7785,7 +7785,7 @@ export const data = [
     id: 865,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "Orissa",
@@ -7794,7 +7794,7 @@ export const data = [
     id: 866,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "Orissa",
@@ -7803,7 +7803,7 @@ export const data = [
     id: 867,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "Orissa",
@@ -7812,7 +7812,7 @@ export const data = [
     id: 868,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "Orissa",
@@ -7821,7 +7821,7 @@ export const data = [
     id: 869,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "Orissa",
@@ -7830,7 +7830,7 @@ export const data = [
     id: 870,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "Orissa",
@@ -7839,7 +7839,7 @@ export const data = [
     id: 871,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "Orissa",
@@ -7848,7 +7848,7 @@ export const data = [
     id: 872,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "Pondicherry",
@@ -7857,7 +7857,7 @@ export const data = [
     id: 873,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "Pondicherry",
@@ -7866,7 +7866,7 @@ export const data = [
     id: 874,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "Pondicherry",
@@ -7875,7 +7875,7 @@ export const data = [
     id: 875,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "Pondicherry",
@@ -7884,7 +7884,7 @@ export const data = [
     id: 876,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "Pondicherry",
@@ -7893,7 +7893,7 @@ export const data = [
     id: 877,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "Pondicherry",
@@ -7902,7 +7902,7 @@ export const data = [
     id: 878,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "Pondicherry",
@@ -7911,7 +7911,7 @@ export const data = [
     id: 879,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "Punjab",
@@ -7920,7 +7920,7 @@ export const data = [
     id: 880,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "Punjab",
@@ -7929,7 +7929,7 @@ export const data = [
     id: 881,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "Punjab",
@@ -7938,7 +7938,7 @@ export const data = [
     id: 882,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "Punjab",
@@ -7947,7 +7947,7 @@ export const data = [
     id: 883,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "Punjab",
@@ -7956,7 +7956,7 @@ export const data = [
     id: 884,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "Punjab",
@@ -7965,7 +7965,7 @@ export const data = [
     id: 885,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "Punjab",
@@ -7974,7 +7974,7 @@ export const data = [
     id: 886,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "Rajasthan",
@@ -7983,7 +7983,7 @@ export const data = [
     id: 887,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "Rajasthan",
@@ -7992,7 +7992,7 @@ export const data = [
     id: 888,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "Rajasthan",
@@ -8001,7 +8001,7 @@ export const data = [
     id: 889,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "Rajasthan",
@@ -8010,7 +8010,7 @@ export const data = [
     id: 890,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "Rajasthan",
@@ -8019,7 +8019,7 @@ export const data = [
     id: 891,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "Rajasthan",
@@ -8028,7 +8028,7 @@ export const data = [
     id: 892,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "Rajasthan",
@@ -8037,7 +8037,7 @@ export const data = [
     id: 893,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "Tamil Nadu",
@@ -8046,7 +8046,7 @@ export const data = [
     id: 894,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "Tamil Nadu",
@@ -8055,7 +8055,7 @@ export const data = [
     id: 895,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "Tamil Nadu",
@@ -8064,7 +8064,7 @@ export const data = [
     id: 896,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "Tamil Nadu",
@@ -8073,7 +8073,7 @@ export const data = [
     id: 897,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "Tamil Nadu",
@@ -8082,7 +8082,7 @@ export const data = [
     id: 898,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "Tamil Nadu",
@@ -8091,7 +8091,7 @@ export const data = [
     id: 899,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "Tamil Nadu",
@@ -8100,7 +8100,7 @@ export const data = [
     id: 900,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "Tripura",
@@ -8109,7 +8109,7 @@ export const data = [
     id: 901,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "Tripura",
@@ -8118,7 +8118,7 @@ export const data = [
     id: 902,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "Tripura",
@@ -8127,7 +8127,7 @@ export const data = [
     id: 903,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "Tripura",
@@ -8136,7 +8136,7 @@ export const data = [
     id: 904,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "Tripura",
@@ -8145,7 +8145,7 @@ export const data = [
     id: 905,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "Tripura",
@@ -8154,7 +8154,7 @@ export const data = [
     id: 906,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "Tripura",
@@ -8163,7 +8163,7 @@ export const data = [
     id: 907,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "Telangana",
@@ -8172,7 +8172,7 @@ export const data = [
     id: 908,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "Telangana",
@@ -8181,7 +8181,7 @@ export const data = [
     id: 909,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "Telangana",
@@ -8190,7 +8190,7 @@ export const data = [
     id: 910,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "Telangana",
@@ -8199,7 +8199,7 @@ export const data = [
     id: 911,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "Telangana",
@@ -8208,7 +8208,7 @@ export const data = [
     id: 912,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "Telangana",
@@ -8217,7 +8217,7 @@ export const data = [
     id: 913,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "Telangana",
@@ -8226,7 +8226,7 @@ export const data = [
     id: 914,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "Uttar Pradesh",
@@ -8235,7 +8235,7 @@ export const data = [
     id: 915,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "Uttar Pradesh",
@@ -8244,7 +8244,7 @@ export const data = [
     id: 916,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "Uttar Pradesh",
@@ -8253,7 +8253,7 @@ export const data = [
     id: 917,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "Uttar Pradesh",
@@ -8262,7 +8262,7 @@ export const data = [
     id: 918,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "Uttar Pradesh",
@@ -8271,7 +8271,7 @@ export const data = [
     id: 919,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "Uttar Pradesh",
@@ -8280,7 +8280,7 @@ export const data = [
     id: 920,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "Uttar Pradesh",
@@ -8289,7 +8289,7 @@ export const data = [
     id: 921,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "Uttaranchal",
@@ -8298,7 +8298,7 @@ export const data = [
     id: 922,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "Uttaranchal",
@@ -8307,7 +8307,7 @@ export const data = [
     id: 923,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "Uttaranchal",
@@ -8316,7 +8316,7 @@ export const data = [
     id: 924,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "Uttaranchal",
@@ -8325,7 +8325,7 @@ export const data = [
     id: 925,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "Uttaranchal",
@@ -8334,7 +8334,7 @@ export const data = [
     id: 926,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "Uttaranchal",
@@ -8343,7 +8343,7 @@ export const data = [
     id: 927,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "Uttaranchal",
@@ -8352,7 +8352,7 @@ export const data = [
     id: 928,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "DAP",
     state: "West Bengal",
@@ -8361,7 +8361,7 @@ export const data = [
     id: 929,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MAP",
     state: "West Bengal",
@@ -8370,7 +8370,7 @@ export const data = [
     id: 930,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "MOP",
     state: "West Bengal",
@@ -8379,7 +8379,7 @@ export const data = [
     id: 931,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "NPK",
     state: "West Bengal",
@@ -8388,7 +8388,7 @@ export const data = [
     id: 932,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "TSP",
     state: "West Bengal",
@@ -8397,7 +8397,7 @@ export const data = [
     id: 933,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "UREA",
     state: "West Bengal",
@@ -8406,7 +8406,7 @@ export const data = [
     id: 934,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "July",
     product: "SSP",
     state: "West Bengal",
@@ -8415,7 +8415,7 @@ export const data = [
     id: 935,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Andaman & Nicobar",
@@ -8424,7 +8424,7 @@ export const data = [
     id: 936,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Andaman & Nicobar",
@@ -8433,7 +8433,7 @@ export const data = [
     id: 937,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Andaman & Nicobar",
@@ -8442,7 +8442,7 @@ export const data = [
     id: 938,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Andaman & Nicobar",
@@ -8451,7 +8451,7 @@ export const data = [
     id: 939,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Andaman & Nicobar",
@@ -8460,7 +8460,7 @@ export const data = [
     id: 940,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Andaman & Nicobar",
@@ -8469,7 +8469,7 @@ export const data = [
     id: 941,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Andaman & Nicobar",
@@ -8478,7 +8478,7 @@ export const data = [
     id: 942,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Andhra Pradesh",
@@ -8487,7 +8487,7 @@ export const data = [
     id: 943,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Andhra Pradesh",
@@ -8496,7 +8496,7 @@ export const data = [
     id: 944,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Andhra Pradesh",
@@ -8505,7 +8505,7 @@ export const data = [
     id: 945,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Andhra Pradesh",
@@ -8514,7 +8514,7 @@ export const data = [
     id: 946,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Andhra Pradesh",
@@ -8523,7 +8523,7 @@ export const data = [
     id: 947,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Andhra Pradesh",
@@ -8532,7 +8532,7 @@ export const data = [
     id: 948,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Andhra Pradesh",
@@ -8541,7 +8541,7 @@ export const data = [
     id: 949,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Arunachal Pradesh",
@@ -8550,7 +8550,7 @@ export const data = [
     id: 950,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Arunachal Pradesh",
@@ -8559,7 +8559,7 @@ export const data = [
     id: 951,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Arunachal Pradesh",
@@ -8568,7 +8568,7 @@ export const data = [
     id: 952,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Arunachal Pradesh",
@@ -8577,7 +8577,7 @@ export const data = [
     id: 953,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Arunachal Pradesh",
@@ -8586,7 +8586,7 @@ export const data = [
     id: 954,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Arunachal Pradesh",
@@ -8595,7 +8595,7 @@ export const data = [
     id: 955,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Arunachal Pradesh",
@@ -8604,7 +8604,7 @@ export const data = [
     id: 956,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Assam",
@@ -8613,7 +8613,7 @@ export const data = [
     id: 957,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Assam",
@@ -8622,7 +8622,7 @@ export const data = [
     id: 958,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Assam",
@@ -8631,7 +8631,7 @@ export const data = [
     id: 959,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Assam",
@@ -8640,7 +8640,7 @@ export const data = [
     id: 960,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Assam",
@@ -8649,7 +8649,7 @@ export const data = [
     id: 961,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Assam",
@@ -8658,7 +8658,7 @@ export const data = [
     id: 962,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Assam",
@@ -8667,7 +8667,7 @@ export const data = [
     id: 963,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Bihar",
@@ -8676,7 +8676,7 @@ export const data = [
     id: 964,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Bihar",
@@ -8685,7 +8685,7 @@ export const data = [
     id: 965,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Bihar",
@@ -8694,7 +8694,7 @@ export const data = [
     id: 966,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Bihar",
@@ -8703,7 +8703,7 @@ export const data = [
     id: 967,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Bihar",
@@ -8712,7 +8712,7 @@ export const data = [
     id: 968,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Bihar",
@@ -8721,7 +8721,7 @@ export const data = [
     id: 969,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Bihar",
@@ -8730,7 +8730,7 @@ export const data = [
     id: 970,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Chandigarh",
@@ -8739,7 +8739,7 @@ export const data = [
     id: 971,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Chandigarh",
@@ -8748,7 +8748,7 @@ export const data = [
     id: 972,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Chandigarh",
@@ -8757,7 +8757,7 @@ export const data = [
     id: 973,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Chandigarh",
@@ -8766,7 +8766,7 @@ export const data = [
     id: 974,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Chandigarh",
@@ -8775,7 +8775,7 @@ export const data = [
     id: 975,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Chandigarh",
@@ -8784,7 +8784,7 @@ export const data = [
     id: 976,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Chandigarh",
@@ -8793,7 +8793,7 @@ export const data = [
     id: 977,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Chattishgarh",
@@ -8802,7 +8802,7 @@ export const data = [
     id: 978,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Chattishgarh",
@@ -8811,7 +8811,7 @@ export const data = [
     id: 979,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Chattishgarh",
@@ -8820,7 +8820,7 @@ export const data = [
     id: 980,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Chattishgarh",
@@ -8829,7 +8829,7 @@ export const data = [
     id: 981,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Chattishgarh",
@@ -8838,7 +8838,7 @@ export const data = [
     id: 982,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Chattishgarh",
@@ -8847,7 +8847,7 @@ export const data = [
     id: 983,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Chattishgarh",
@@ -8856,7 +8856,7 @@ export const data = [
     id: 984,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Dadra & Nagar Haveli",
@@ -8865,7 +8865,7 @@ export const data = [
     id: 985,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Dadra & Nagar Haveli",
@@ -8874,7 +8874,7 @@ export const data = [
     id: 986,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Dadra & Nagar Haveli",
@@ -8883,7 +8883,7 @@ export const data = [
     id: 987,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Dadra & Nagar Haveli",
@@ -8892,7 +8892,7 @@ export const data = [
     id: 988,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Dadra & Nagar Haveli",
@@ -8901,7 +8901,7 @@ export const data = [
     id: 989,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Dadra & Nagar Haveli",
@@ -8910,7 +8910,7 @@ export const data = [
     id: 990,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Dadra & Nagar Haveli",
@@ -8919,7 +8919,7 @@ export const data = [
     id: 991,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Daman & Diu",
@@ -8928,7 +8928,7 @@ export const data = [
     id: 992,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Daman & Diu",
@@ -8937,7 +8937,7 @@ export const data = [
     id: 993,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Daman & Diu",
@@ -8946,7 +8946,7 @@ export const data = [
     id: 994,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Daman & Diu",
@@ -8955,7 +8955,7 @@ export const data = [
     id: 995,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Daman & Diu",
@@ -8964,7 +8964,7 @@ export const data = [
     id: 996,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Daman & Diu",
@@ -8973,7 +8973,7 @@ export const data = [
     id: 997,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Daman & Diu",
@@ -8982,7 +8982,7 @@ export const data = [
     id: 998,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Delhi",
@@ -8991,7 +8991,7 @@ export const data = [
     id: 999,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Delhi",
@@ -9000,7 +9000,7 @@ export const data = [
     id: 1000,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Delhi",
@@ -9009,7 +9009,7 @@ export const data = [
     id: 1001,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Delhi",
@@ -9018,7 +9018,7 @@ export const data = [
     id: 1002,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Delhi",
@@ -9027,7 +9027,7 @@ export const data = [
     id: 1003,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Delhi",
@@ -9036,7 +9036,7 @@ export const data = [
     id: 1004,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Delhi",
@@ -9045,7 +9045,7 @@ export const data = [
     id: 1005,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Goa",
@@ -9054,7 +9054,7 @@ export const data = [
     id: 1006,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Goa",
@@ -9063,7 +9063,7 @@ export const data = [
     id: 1007,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Goa",
@@ -9072,7 +9072,7 @@ export const data = [
     id: 1008,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Goa",
@@ -9081,7 +9081,7 @@ export const data = [
     id: 1009,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Goa",
@@ -9090,7 +9090,7 @@ export const data = [
     id: 1010,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Goa",
@@ -9099,7 +9099,7 @@ export const data = [
     id: 1011,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Goa",
@@ -9108,7 +9108,7 @@ export const data = [
     id: 1012,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Gujarat",
@@ -9117,7 +9117,7 @@ export const data = [
     id: 1013,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Gujarat",
@@ -9126,7 +9126,7 @@ export const data = [
     id: 1014,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Gujarat",
@@ -9135,7 +9135,7 @@ export const data = [
     id: 1015,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Gujarat",
@@ -9144,7 +9144,7 @@ export const data = [
     id: 1016,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Gujarat",
@@ -9153,7 +9153,7 @@ export const data = [
     id: 1017,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Gujarat",
@@ -9162,7 +9162,7 @@ export const data = [
     id: 1018,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Gujarat",
@@ -9171,7 +9171,7 @@ export const data = [
     id: 1019,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Harayana",
@@ -9180,7 +9180,7 @@ export const data = [
     id: 1020,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Harayana",
@@ -9189,7 +9189,7 @@ export const data = [
     id: 1021,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Harayana",
@@ -9198,7 +9198,7 @@ export const data = [
     id: 1022,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Harayana",
@@ -9207,7 +9207,7 @@ export const data = [
     id: 1023,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Harayana",
@@ -9216,7 +9216,7 @@ export const data = [
     id: 1024,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Harayana",
@@ -9225,7 +9225,7 @@ export const data = [
     id: 1025,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Harayana",
@@ -9234,7 +9234,7 @@ export const data = [
     id: 1026,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Himachal Pradesh",
@@ -9243,7 +9243,7 @@ export const data = [
     id: 1027,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Himachal Pradesh",
@@ -9252,7 +9252,7 @@ export const data = [
     id: 1028,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Himachal Pradesh",
@@ -9261,7 +9261,7 @@ export const data = [
     id: 1029,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Himachal Pradesh",
@@ -9270,7 +9270,7 @@ export const data = [
     id: 1030,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Himachal Pradesh",
@@ -9279,7 +9279,7 @@ export const data = [
     id: 1031,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Himachal Pradesh",
@@ -9288,7 +9288,7 @@ export const data = [
     id: 1032,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Himachal Pradesh",
@@ -9297,7 +9297,7 @@ export const data = [
     id: 1033,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Jammu & Kashmir",
@@ -9306,7 +9306,7 @@ export const data = [
     id: 1034,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Jammu & Kashmir",
@@ -9315,7 +9315,7 @@ export const data = [
     id: 1035,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Jammu & Kashmir",
@@ -9324,7 +9324,7 @@ export const data = [
     id: 1036,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Jammu & Kashmir",
@@ -9333,7 +9333,7 @@ export const data = [
     id: 1037,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Jammu & Kashmir",
@@ -9342,7 +9342,7 @@ export const data = [
     id: 1038,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Jammu & Kashmir",
@@ -9351,7 +9351,7 @@ export const data = [
     id: 1039,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Jammu & Kashmir",
@@ -9360,7 +9360,7 @@ export const data = [
     id: 1040,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Jharkhand",
@@ -9369,7 +9369,7 @@ export const data = [
     id: 1041,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Jharkhand",
@@ -9378,7 +9378,7 @@ export const data = [
     id: 1042,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Jharkhand",
@@ -9387,7 +9387,7 @@ export const data = [
     id: 1043,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Jharkhand",
@@ -9396,7 +9396,7 @@ export const data = [
     id: 1044,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Jharkhand",
@@ -9405,7 +9405,7 @@ export const data = [
     id: 1045,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Jharkhand",
@@ -9414,7 +9414,7 @@ export const data = [
     id: 1046,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Jharkhand",
@@ -9423,7 +9423,7 @@ export const data = [
     id: 1047,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Karnataka",
@@ -9432,7 +9432,7 @@ export const data = [
     id: 1048,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Karnataka",
@@ -9441,7 +9441,7 @@ export const data = [
     id: 1049,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Karnataka",
@@ -9450,7 +9450,7 @@ export const data = [
     id: 1050,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Karnataka",
@@ -9459,7 +9459,7 @@ export const data = [
     id: 1051,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Karnataka",
@@ -9468,7 +9468,7 @@ export const data = [
     id: 1052,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Karnataka",
@@ -9477,7 +9477,7 @@ export const data = [
     id: 1053,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Karnataka",
@@ -9486,7 +9486,7 @@ export const data = [
     id: 1054,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Kerala",
@@ -9495,7 +9495,7 @@ export const data = [
     id: 1055,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Kerala",
@@ -9504,7 +9504,7 @@ export const data = [
     id: 1056,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Kerala",
@@ -9513,7 +9513,7 @@ export const data = [
     id: 1057,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Kerala",
@@ -9522,7 +9522,7 @@ export const data = [
     id: 1058,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Kerala",
@@ -9531,7 +9531,7 @@ export const data = [
     id: 1059,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Kerala",
@@ -9540,7 +9540,7 @@ export const data = [
     id: 1060,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Kerala",
@@ -9549,7 +9549,7 @@ export const data = [
     id: 1061,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Lakshadweep",
@@ -9558,7 +9558,7 @@ export const data = [
     id: 1062,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Lakshadweep",
@@ -9567,7 +9567,7 @@ export const data = [
     id: 1063,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Lakshadweep",
@@ -9576,7 +9576,7 @@ export const data = [
     id: 1064,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Lakshadweep",
@@ -9585,7 +9585,7 @@ export const data = [
     id: 1065,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Lakshadweep",
@@ -9594,7 +9594,7 @@ export const data = [
     id: 1066,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Lakshadweep",
@@ -9603,7 +9603,7 @@ export const data = [
     id: 1067,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Lakshadweep",
@@ -9612,7 +9612,7 @@ export const data = [
     id: 1068,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Madhya Pradesh",
@@ -9621,7 +9621,7 @@ export const data = [
     id: 1069,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Madhya Pradesh",
@@ -9630,7 +9630,7 @@ export const data = [
     id: 1070,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Madhya Pradesh",
@@ -9639,7 +9639,7 @@ export const data = [
     id: 1071,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Madhya Pradesh",
@@ -9648,7 +9648,7 @@ export const data = [
     id: 1072,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Madhya Pradesh",
@@ -9657,7 +9657,7 @@ export const data = [
     id: 1073,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Madhya Pradesh",
@@ -9666,7 +9666,7 @@ export const data = [
     id: 1074,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Madhya Pradesh",
@@ -9675,7 +9675,7 @@ export const data = [
     id: 1075,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Maharastra",
@@ -9684,7 +9684,7 @@ export const data = [
     id: 1076,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Maharastra",
@@ -9693,7 +9693,7 @@ export const data = [
     id: 1077,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Maharastra",
@@ -9702,7 +9702,7 @@ export const data = [
     id: 1078,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Maharastra",
@@ -9711,7 +9711,7 @@ export const data = [
     id: 1079,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Maharastra",
@@ -9720,7 +9720,7 @@ export const data = [
     id: 1080,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Maharastra",
@@ -9729,7 +9729,7 @@ export const data = [
     id: 1081,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Maharastra",
@@ -9738,7 +9738,7 @@ export const data = [
     id: 1082,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Manipur",
@@ -9747,7 +9747,7 @@ export const data = [
     id: 1083,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Manipur",
@@ -9756,7 +9756,7 @@ export const data = [
     id: 1084,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Manipur",
@@ -9765,7 +9765,7 @@ export const data = [
     id: 1085,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Manipur",
@@ -9774,7 +9774,7 @@ export const data = [
     id: 1086,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Manipur",
@@ -9783,7 +9783,7 @@ export const data = [
     id: 1087,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Manipur",
@@ -9792,7 +9792,7 @@ export const data = [
     id: 1088,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Manipur",
@@ -9801,7 +9801,7 @@ export const data = [
     id: 1089,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Megalaya",
@@ -9810,7 +9810,7 @@ export const data = [
     id: 1090,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Megalaya",
@@ -9819,7 +9819,7 @@ export const data = [
     id: 1091,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Megalaya",
@@ -9828,7 +9828,7 @@ export const data = [
     id: 1092,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Megalaya",
@@ -9837,7 +9837,7 @@ export const data = [
     id: 1093,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Megalaya",
@@ -9846,7 +9846,7 @@ export const data = [
     id: 1094,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Megalaya",
@@ -9855,7 +9855,7 @@ export const data = [
     id: 1095,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Megalaya",
@@ -9864,7 +9864,7 @@ export const data = [
     id: 1096,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Mizoram",
@@ -9873,7 +9873,7 @@ export const data = [
     id: 1097,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Mizoram",
@@ -9882,7 +9882,7 @@ export const data = [
     id: 1098,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Mizoram",
@@ -9891,7 +9891,7 @@ export const data = [
     id: 1099,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Mizoram",
@@ -9900,7 +9900,7 @@ export const data = [
     id: 1100,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Mizoram",
@@ -9909,7 +9909,7 @@ export const data = [
     id: 1101,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Mizoram",
@@ -9918,7 +9918,7 @@ export const data = [
     id: 1102,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Mizoram",
@@ -9927,7 +9927,7 @@ export const data = [
     id: 1103,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Nagaland",
@@ -9936,7 +9936,7 @@ export const data = [
     id: 1104,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Nagaland",
@@ -9945,7 +9945,7 @@ export const data = [
     id: 1105,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Nagaland",
@@ -9954,7 +9954,7 @@ export const data = [
     id: 1106,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Nagaland",
@@ -9963,7 +9963,7 @@ export const data = [
     id: 1107,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Nagaland",
@@ -9972,7 +9972,7 @@ export const data = [
     id: 1108,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Nagaland",
@@ -9981,7 +9981,7 @@ export const data = [
     id: 1109,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Nagaland",
@@ -9990,7 +9990,7 @@ export const data = [
     id: 1110,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Orissa",
@@ -9999,7 +9999,7 @@ export const data = [
     id: 1111,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Orissa",
@@ -10008,7 +10008,7 @@ export const data = [
     id: 1112,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Orissa",
@@ -10017,7 +10017,7 @@ export const data = [
     id: 1113,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Orissa",
@@ -10026,7 +10026,7 @@ export const data = [
     id: 1114,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Orissa",
@@ -10035,7 +10035,7 @@ export const data = [
     id: 1115,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Orissa",
@@ -10044,7 +10044,7 @@ export const data = [
     id: 1116,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Orissa",
@@ -10053,7 +10053,7 @@ export const data = [
     id: 1117,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Pondicherry",
@@ -10062,7 +10062,7 @@ export const data = [
     id: 1118,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Pondicherry",
@@ -10071,7 +10071,7 @@ export const data = [
     id: 1119,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Pondicherry",
@@ -10080,7 +10080,7 @@ export const data = [
     id: 1120,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Pondicherry",
@@ -10089,7 +10089,7 @@ export const data = [
     id: 1121,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Pondicherry",
@@ -10098,7 +10098,7 @@ export const data = [
     id: 1122,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Pondicherry",
@@ -10107,7 +10107,7 @@ export const data = [
     id: 1123,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Pondicherry",
@@ -10116,7 +10116,7 @@ export const data = [
     id: 1124,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Punjab",
@@ -10125,7 +10125,7 @@ export const data = [
     id: 1125,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Punjab",
@@ -10134,7 +10134,7 @@ export const data = [
     id: 1126,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Punjab",
@@ -10143,7 +10143,7 @@ export const data = [
     id: 1127,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Punjab",
@@ -10152,7 +10152,7 @@ export const data = [
     id: 1128,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Punjab",
@@ -10161,7 +10161,7 @@ export const data = [
     id: 1129,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Punjab",
@@ -10170,7 +10170,7 @@ export const data = [
     id: 1130,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Punjab",
@@ -10179,7 +10179,7 @@ export const data = [
     id: 1131,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Rajasthan",
@@ -10188,7 +10188,7 @@ export const data = [
     id: 1132,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Rajasthan",
@@ -10197,7 +10197,7 @@ export const data = [
     id: 1133,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Rajasthan",
@@ -10206,7 +10206,7 @@ export const data = [
     id: 1134,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Rajasthan",
@@ -10215,7 +10215,7 @@ export const data = [
     id: 1135,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Rajasthan",
@@ -10224,7 +10224,7 @@ export const data = [
     id: 1136,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Rajasthan",
@@ -10233,7 +10233,7 @@ export const data = [
     id: 1137,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Rajasthan",
@@ -10242,7 +10242,7 @@ export const data = [
     id: 1138,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Sikkim",
@@ -10251,7 +10251,7 @@ export const data = [
     id: 1139,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Sikkim",
@@ -10260,7 +10260,7 @@ export const data = [
     id: 1140,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Sikkim",
@@ -10269,7 +10269,7 @@ export const data = [
     id: 1141,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Sikkim",
@@ -10278,7 +10278,7 @@ export const data = [
     id: 1142,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Sikkim",
@@ -10287,7 +10287,7 @@ export const data = [
     id: 1143,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Sikkim",
@@ -10296,7 +10296,7 @@ export const data = [
     id: 1144,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Sikkim",
@@ -10305,7 +10305,7 @@ export const data = [
     id: 1145,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Tamil Nadu",
@@ -10314,7 +10314,7 @@ export const data = [
     id: 1146,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Tamil Nadu",
@@ -10323,7 +10323,7 @@ export const data = [
     id: 1147,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Tamil Nadu",
@@ -10332,7 +10332,7 @@ export const data = [
     id: 1148,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Tamil Nadu",
@@ -10341,7 +10341,7 @@ export const data = [
     id: 1149,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Tamil Nadu",
@@ -10350,7 +10350,7 @@ export const data = [
     id: 1150,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Tamil Nadu",
@@ -10359,7 +10359,7 @@ export const data = [
     id: 1151,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Tamil Nadu",
@@ -10368,7 +10368,7 @@ export const data = [
     id: 1152,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Tripura",
@@ -10377,7 +10377,7 @@ export const data = [
     id: 1153,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Tripura",
@@ -10386,7 +10386,7 @@ export const data = [
     id: 1154,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Tripura",
@@ -10395,7 +10395,7 @@ export const data = [
     id: 1155,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Tripura",
@@ -10404,7 +10404,7 @@ export const data = [
     id: 1156,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Tripura",
@@ -10413,7 +10413,7 @@ export const data = [
     id: 1157,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Tripura",
@@ -10422,7 +10422,7 @@ export const data = [
     id: 1158,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Tripura",
@@ -10431,7 +10431,7 @@ export const data = [
     id: 1159,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Telangana",
@@ -10440,7 +10440,7 @@ export const data = [
     id: 1160,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Telangana",
@@ -10449,7 +10449,7 @@ export const data = [
     id: 1161,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Telangana",
@@ -10458,7 +10458,7 @@ export const data = [
     id: 1162,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Telangana",
@@ -10467,7 +10467,7 @@ export const data = [
     id: 1163,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Telangana",
@@ -10476,7 +10476,7 @@ export const data = [
     id: 1164,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Telangana",
@@ -10485,7 +10485,7 @@ export const data = [
     id: 1165,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Telangana",
@@ -10494,7 +10494,7 @@ export const data = [
     id: 1166,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Uttar Pradesh",
@@ -10503,7 +10503,7 @@ export const data = [
     id: 1167,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Uttar Pradesh",
@@ -10512,7 +10512,7 @@ export const data = [
     id: 1168,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Uttar Pradesh",
@@ -10521,7 +10521,7 @@ export const data = [
     id: 1169,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Uttar Pradesh",
@@ -10530,7 +10530,7 @@ export const data = [
     id: 1170,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Uttar Pradesh",
@@ -10539,7 +10539,7 @@ export const data = [
     id: 1171,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Uttar Pradesh",
@@ -10548,7 +10548,7 @@ export const data = [
     id: 1172,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "Uttaranchal",
@@ -10557,7 +10557,7 @@ export const data = [
     id: 1173,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MAP",
     state: "Uttaranchal",
@@ -10566,7 +10566,7 @@ export const data = [
     id: 1174,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "MOP",
     state: "Uttaranchal",
@@ -10575,7 +10575,7 @@ export const data = [
     id: 1175,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "NPK",
     state: "Uttaranchal",
@@ -10584,7 +10584,7 @@ export const data = [
     id: 1176,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "TSP",
     state: "Uttaranchal",
@@ -10593,7 +10593,7 @@ export const data = [
     id: 1177,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "UREA",
     state: "Uttaranchal",
@@ -10602,7 +10602,7 @@ export const data = [
     id: 1178,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "SSP",
     state: "Uttaranchal",
@@ -10611,7 +10611,7 @@ export const data = [
     id: 1179,
   },
   {
-    _year: "2015-2016",
+    year: "2015-2016",
     month: "August",
     product: "DAP",
     state: "West Bengal",

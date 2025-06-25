@@ -50,7 +50,7 @@ export function capitalizeWords(string) {
   })
 }
 
-export function getPieData(data, valueData) {
+export function getPieData(data, valueData, order = "desc") {
   const chartData = data.reduce((carry, item) => {
     const { product, [valueData]: req } = item
 
@@ -64,7 +64,10 @@ export function getPieData(data, valueData) {
   }, {})
 
   const finalData = [...Object.entries(chartData)]
-    .sort((a, b) => b[1] - a[1])
+    .sort((a, b) => 
+    {
+      return order === "asc" ? a[1] - b[1] : b[1] - a[1];
+    })
     .slice(0, 5)
     .map((entry) => ({
       name: entry[0],

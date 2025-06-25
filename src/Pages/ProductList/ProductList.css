@@ -1,13 +1,15 @@
-.productList {
-
+.productList 
+{
+  padding: 20px;
   flex: 4;
 }
 
-.productListTable {
+.productListTable 
+{
+  margin-top: 20px;
   display: flex;
-  padding: 50px;
   width: 80vw;
-  height: 90vh;
+  height: 80vh;
 }
 
 .productListImg {
